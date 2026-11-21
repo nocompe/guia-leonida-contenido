@@ -1,0 +1,2682 @@
+{
+  "version": 8,
+  "actualizado": "2026-11-21",
+  "lanzamiento": {
+    "etiqueta": "Ya disponible",
+    "titulo": "19 NOV 2026",
+    "texto": "Salió hoy en consolas, a la medianoche de cada país. En Perú se desbloqueó a las 00:00. Sin versión de PC ni modo online por ahora.",
+    "plataformas": [
+      "PS5",
+      "PS5 Pro",
+      "Xbox Series X|S",
+      "Xbox One (nube)"
+    ]
+  },
+  "novedades": [
+    {
+      "fecha": "2026-11-21",
+      "texto": "Nuevo: el mapa oficial de Leonida, con zoom para ver cada zona."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Ahora con imágenes oficiales de los personajes y las regiones de Leonida."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Misiones ampliadas con Eurogamer: 96 misiones con su objetivo y con quién se juegan, más las secundarias «Extraños y locos» y nuevos consejos."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Nuevo: las 91 misiones de la historia por capítulo, para ir marcando las que terminas."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Trucos revisados con GAMES.GG: los 17 códigos coinciden, y hay nuevos consejos para planear qué trucos desbloquear."
+    },
+    {
+      "fecha": "2026-11-21",
+      "texto": "Trucos con sus nombres en español, requisitos corregidos y dos secretos: jugar en primera persona y el coche de Paul Walker."
+    },
+    {
+      "fecha": "2026-11-19",
+      "texto": "Nuevo: los 61 trucos con sus botones (16 confirmados), más de 50 armas por categoría y el mapa ilustrado de Leonida."
+    },
+    {
+      "fecha": "2026-11-19",
+      "texto": "Primera versión de la guía: regiones, personajes, ediciones, novedades y consejos para empezar."
+    },
+    {
+      "fecha": "2026-11-19",
+      "texto": "GTA VI ya está a la venta en PS5 y Xbox Series X|S. Metacritic le da 99."
+    },
+    {
+      "fecha": "2026-11-10",
+      "texto": "Abrió la precarga digital en PlayStation y Xbox."
+    },
+    {
+      "fecha": "2026-10-15",
+      "texto": "Rockstar estrenó el tráiler de lanzamiento."
+    }
+  ],
+  "regiones": [
+    {
+      "id": "vice-city",
+      "nombre": "Vice City",
+      "tipo": "ciudad",
+      "inspiracion": "Miami",
+      "resumen": "La gran ciudad del estado: playas, art déco, neón y mucho dinero en juego.",
+      "texto": "Rockstar la presenta como la capital del sol y la diversión, donde se juntan el glamour, el ajetreo y la codicia. Es el corazón de Leonida y la zona más densa del mapa.\n\nSegún Kotaku, la historia empieza lejos de aquí: a Vice City se llega tras unas doce horas de juego. Los medios cuentan más de 600 tiendas e interiores, y GameSpot destaca que peluquerías, tatuajes y tiendas no se repiten.",
+      "lugares": [
+        "Ocean Beach: hoteles art déco en tonos pastel y arena blanca.",
+        "Little Cuba: barrio conocido por sus panaderías.",
+        "Mercadillo Tisha-Wocka: el lugar de las marcas pirata.",
+        "Puerto de Vice City (VC Port): la «capital mundial de los cruceros».",
+        "Stockyard: moda urbana y tatuajes; allí están Stock 305 y Electric Fang Tattoo.",
+        "Southside: zona de la pandilla PTT Youngin$.",
+        "Washington Beach: donde está amarrada la lancha Squalo de la edición Ultimate.",
+        "Club Delights Cabaret, Ocean View Hotel y sucursales del banco Fleeca."
+      ],
+      "fuente": "oficial",
+      "mapa": {
+        "x": 0.88,
+        "y": 0.62
+      },
+      "imagenes": [
+        "imagenes/vice-city-1.jpg",
+        "imagenes/vice-city-2.jpg",
+        "imagenes/vice-city-3.jpg",
+        "imagenes/vice-city-4.jpg"
+      ],
+      "mapaOficial": {
+        "x": 0.67,
+        "y": 0.55
+      }
+    },
+    {
+      "id": "leonida-keys",
+      "nombre": "Leonida Keys",
+      "tipo": "costa",
+      "inspiracion": "Cayos de Florida",
+      "resumen": "Islas tropicales unidas por puentes. Aquí empieza la historia de Jason.",
+      "texto": "Un archipiélago de vida tranquila y sin lujos, con bares donde nadie se arregla para entrar. Tiene algunas de las aguas más bonitas del país, y también de las más peligrosas.\n\nEs la zona de Brian Heder y su astillero, y donde vive Jason al principio. En el material oficial se ven iguanas, hidroaviones, buceo entre tortugas y corales, y fiestas en barcos.\n\nConsejo de GameSpot: haz las misiones secundarias de los Cayos antes de irte, porque volver después es un viaje largo.",
+      "lugares": [
+        "Gambit Bay: zona de pesca.",
+        "Astillero de Brian Heder."
+      ],
+      "fuente": "oficial",
+      "mapa": {
+        "x": 0.6,
+        "y": 0.91
+      },
+      "imagenes": [
+        "imagenes/leonida-keys-1.jpg",
+        "imagenes/leonida-keys-2.jpg",
+        "imagenes/leonida-keys-3.jpg"
+      ],
+      "mapaOficial": {
+        "x": 0.42,
+        "y": 0.86
+      }
+    },
+    {
+      "id": "grassrivers",
+      "nombre": "Grassrivers",
+      "tipo": "naturaleza",
+      "inspiracion": "Everglades",
+      "resumen": "Pantanos y manglares salvajes, famosos por sus caimanes.",
+      "texto": "Rockstar la llama la joya indomable de Leonida: kilómetros de manglares donde los caimanes son la atracción más conocida, aunque no la más peligrosa.\n\nEn las capturas oficiales hay hidrodeslizadores, cazadores y persecuciones policiales por el pantano. Cuidado al nadar: hay caimanes en el agua.",
+      "lugares": [],
+      "fuente": "oficial",
+      "mapa": {
+        "x": 0.76,
+        "y": 0.73
+      },
+      "imagenes": [
+        "imagenes/grassrivers-1.jpg",
+        "imagenes/grassrivers-2.jpg",
+        "imagenes/grassrivers-3.jpg"
+      ],
+      "mapaOficial": {
+        "x": 0.575,
+        "y": 0.69
+      }
+    },
+    {
+      "id": "port-gellhorn",
+      "nombre": "Port Gellhorn",
+      "tipo": "costa",
+      "inspiracion": "",
+      "resumen": "La costa olvidada: moteles baratos, atracciones cerradas y malls vacíos.",
+      "texto": "Un puerto venido a menos cuya economía, según Rockstar, gira alrededor de la cerveza barata, los analgésicos y las bebidas energéticas de gasolinera. Recomiendan moverse en moto de cross y vigilar la cartera.\n\nEn las capturas se ven un motel, un cabaret de carretera y hogueras. Los fans lo comparan con el Panhandle de Florida, pero Rockstar no lo ha confirmado.",
+      "lugares": [],
+      "fuente": "oficial",
+      "mapa": {
+        "x": 0.14,
+        "y": 0.17
+      },
+      "imagenes": [
+        "imagenes/port-gellhorn-1.jpg",
+        "imagenes/port-gellhorn-2.jpg",
+        "imagenes/port-gellhorn-3.jpg"
+      ],
+      "mapaOficial": {
+        "x": 0.3,
+        "y": 0.39
+      }
+    },
+    {
+      "id": "ambrosia",
+      "nombre": "Ambrosia",
+      "tipo": "interior",
+      "inspiracion": "",
+      "resumen": "El corazón industrial de Leonida, con una refinería de azúcar y moteros.",
+      "texto": "Aquí mandan la industria y los valores de siempre. La refinería de azúcar Allied Crystal da casi todos los empleos, y la banda de moteros local se ocupa de casi todo lo demás. El nombre de esa banda aún no se ha confirmado.\n\nEn las capturas hay chimeneas y campos de cultivo en llamas. Los fans lo comparan con la zona azucarera del lago Okeechobee, sin confirmación oficial.",
+      "lugares": [
+        "Lake Leonida: allí está el taller todoterreno One-Eyed Willie's (edición Ultimate).",
+        "Refinería Allied Crystal."
+      ],
+      "fuente": "oficial",
+      "mapa": {
+        "x": 0.66,
+        "y": 0.42
+      },
+      "imagenes": [
+        "imagenes/ambrosia-1.jpg",
+        "imagenes/ambrosia-2.jpg",
+        "imagenes/ambrosia-3.jpg"
+      ],
+      "mapaOficial": {
+        "x": 0.556,
+        "y": 0.3
+      }
+    },
+    {
+      "id": "mount-kalaga",
+      "nombre": "Mount Kalaga",
+      "tipo": "naturaleza",
+      "inspiracion": "",
+      "resumen": "Parque nacional del norte: caza, pesca y pistas todoterreno.",
+      "texto": "Un parque nacional en la frontera norte del estado, ideal para cazar, pescar y salir con motos de cross o quads. En los bosques de alrededor vive gente que prefiere estar lejos del gobierno.\n\nEn el material oficial aparecen pumas, ciervos, kayaks y carreteras de montaña. Kotaku menciona una cima con vistas nocturnas a la ciudad.",
+      "lugares": [],
+      "fuente": "oficial",
+      "mapa": {
+        "x": 0.56,
+        "y": 0.16
+      },
+      "imagenes": [
+        "imagenes/mount-kalaga-1.jpg",
+        "imagenes/mount-kalaga-2.jpg",
+        "imagenes/mount-kalaga-3.jpg"
+      ],
+      "mapaOficial": {
+        "x": 0.5,
+        "y": 0.245
+      }
+    }
+  ],
+  "personajes": [
+    {
+      "id": "jason",
+      "nombre": "Jason Duval",
+      "iniciales": "JD",
+      "rol": "Protagonista",
+      "resumen": "Exmilitar que trabaja para narcos en los Cayos.",
+      "texto": "Creció entre estafadores y delincuentes. Entró al Ejército para dejar atrás una adolescencia complicada y terminó en los Cayos haciendo lo que mejor sabe: trabajos para narcotraficantes locales. Quiere una vida tranquila, pero todo se le complica.\n\nVive en una propiedad de Brian Heder a cambio de ayudarle con cobros y aprietes. Las reseñas lo describen como reservado, leal y la voz de la razón de la pareja.",
+      "datos": [
+        {
+          "k": "Pareja",
+          "v": "Lucia Caminos"
+        },
+        {
+          "k": "Actor",
+          "v": "Dylan Rourke"
+        },
+        {
+          "k": "Pistola",
+          "v": "Girardi ES9"
+        },
+        {
+          "k": "Vehículos",
+          "v": "Vapid Ganado, Dinka Enduro"
+        }
+      ],
+      "spoiler": "Sus misiones propias giran en torno al sello discográfico de Dre'Quan, a quien GameSpot describe como amigo de toda la vida de Jason, y a las Real Dimez.",
+      "fuente": "oficial",
+      "imagenes": [
+        "imagenes/jason-1.jpg",
+        "imagenes/jason-2.jpg",
+        "imagenes/jason-3.jpg"
+      ]
+    },
+    {
+      "id": "lucia",
+      "nombre": "Lucia Caminos",
+      "iniciales": "LC",
+      "rol": "Protagonista",
+      "resumen": "Salió de la Penitenciaría de Leonida y quiere la buena vida.",
+      "texto": "Su padre le enseñó a pelear apenas aprendió a caminar. Pelear por su familia la llevó a la Penitenciaría de Leonida, de la que salió por pura suerte. Ahora quiere hacer solo jugadas inteligentes.\n\nBusca la buena vida con la que su madre soñaba desde que vivían en Liberty City, y ve en Jason una salida. La prensa la presenta como la primera protagonista femenina principal de la era moderna de la saga.",
+      "datos": [
+        {
+          "k": "Pareja",
+          "v": "Jason Duval"
+        },
+        {
+          "k": "Actriz",
+          "v": "Manni L. Perez"
+        },
+        {
+          "k": "Pistola",
+          "v": "Klose K17"
+        },
+        {
+          "k": "Origen",
+          "v": "Liberty City"
+        }
+      ],
+      "spoiler": "Su madre se llama Mia, y su amiga Andy tiene su propia línea de misiones (según GameSpot).",
+      "fuente": "oficial",
+      "imagenes": [
+        "imagenes/lucia-1.jpg",
+        "imagenes/lucia-2.jpg",
+        "imagenes/lucia-3.jpg"
+      ]
+    },
+    {
+      "id": "cal",
+      "nombre": "Cal Hampton",
+      "iniciales": "CH",
+      "rol": "Amigo de Jason",
+      "resumen": "Paranoico y casero, cree todo lo que lee en internet.",
+      "texto": "Amigo de Jason y otro de los colaboradores de Brian. Feliz en casa, pasa el rato escuchando las comunicaciones de la Guardia Costera con unas cervezas y está convencido de que todo lo de internet es verdad.",
+      "datos": [
+        {
+          "k": "Actor",
+          "v": "Bobby Moynihan"
+        }
+      ],
+      "spoiler": "",
+      "fuente": "oficial",
+      "imagenes": [
+        "imagenes/cal-1.jpg",
+        "imagenes/cal-2.jpg"
+      ]
+    },
+    {
+      "id": "brian",
+      "nombre": "Brian Heder",
+      "iniciales": "BH",
+      "rol": "Narcotraficante veterano",
+      "resumen": "Contrabandista de la vieja escuela y casero de Jason.",
+      "texto": "Un traficante clásico de la época dorada del contrabando en los Cayos. Sigue moviendo mercancía desde su astillero junto a Lori, su tercera esposa, y deja el trabajo sucio a otros. Le presta a Jason una casa a cambio de favores.",
+      "datos": [
+        {
+          "k": "Actor",
+          "v": "Stephen Root"
+        },
+        {
+          "k": "Esposa",
+          "v": "Lori Heder"
+        }
+      ],
+      "spoiler": "",
+      "fuente": "oficial",
+      "imagenes": [
+        "imagenes/brian-1.jpg",
+        "imagenes/brian-2.jpg"
+      ]
+    },
+    {
+      "id": "boobie",
+      "nombre": "Boobie Ike",
+      "iniciales": "BI",
+      "rol": "Empresario de Vice City",
+      "resumen": "Pasó de la calle a un imperio legal de clubes y música.",
+      "texto": "Una leyenda local que convirtió su pasado callejero en un imperio legal: inmuebles, un club de striptease y un estudio de grabación. Lo que más le importa es su sello Only Raw Records, que comparte con Dre'Quan.",
+      "datos": [
+        {
+          "k": "Negocio",
+          "v": "Only Raw Records"
+        }
+      ],
+      "spoiler": "",
+      "fuente": "oficial",
+      "imagenes": [
+        "imagenes/boobie-1.jpg",
+        "imagenes/boobie-2.jpg"
+      ]
+    },
+    {
+      "id": "drequan",
+      "nombre": "Dre'Quan Priest",
+      "iniciales": "DP",
+      "rol": "Productor musical",
+      "resumen": "Más buscavidas que gánster, quiere ser magnate de la música.",
+      "texto": "Socio de Boobie en Only Raw Records. Acaba de fichar a las Real Dimez y quiere dejar de programar shows en el club de Boobie para conquistar la escena de Vice City.",
+      "datos": [
+        {
+          "k": "Sello",
+          "v": "Only Raw Records"
+        }
+      ],
+      "spoiler": "",
+      "fuente": "oficial",
+      "imagenes": [
+        "imagenes/drequan-1.jpg",
+        "imagenes/drequan-2.jpg"
+      ]
+    },
+    {
+      "id": "real-dimez",
+      "nombre": "Real Dimez",
+      "iniciales": "RD",
+      "rol": "Dúo de rap",
+      "resumen": "Bae-Luxe y Roxy, amigas desde el colegio.",
+      "texto": "Amigas desde la secundaria, ganaron dinero asaltando a camellos antes de dedicarse al rap y a las redes. Tuvieron un éxito con el rapero DWNPLY y, años y muchos problemas después, firman con Only Raw Records.",
+      "datos": [
+        {
+          "k": "Integrantes",
+          "v": "Bae-Luxe y Roxy"
+        }
+      ],
+      "spoiler": "",
+      "fuente": "oficial",
+      "imagenes": [
+        "imagenes/real-dimez-1.jpg",
+        "imagenes/real-dimez-2.jpg"
+      ]
+    },
+    {
+      "id": "raul",
+      "nombre": "Raul Bautista",
+      "iniciales": "RB",
+      "rol": "Atracador de bancos",
+      "resumen": "Veterano de los golpes, seguro de sí mismo y temerario.",
+      "texto": "Un atracador experimentado y astuto que busca gente dispuesta a arriesgarse. Su temeridad sube la apuesta en cada golpe.",
+      "datos": [],
+      "spoiler": "",
+      "fuente": "oficial",
+      "imagenes": [
+        "imagenes/raul-1.jpg",
+        "imagenes/raul-2.jpg"
+      ]
+    },
+    {
+      "id": "wyman",
+      "nombre": "Wyman",
+      "iniciales": "W",
+      "rol": "Coleccionista",
+      "resumen": "Te encarga recuperar coches clásicos abandonados.",
+      "texto": "Un intermediario local y coleccionista excéntrico. Sus encargos de coches clásicos forman parte del contenido de la edición Ultimate.",
+      "datos": [],
+      "spoiler": "",
+      "fuente": "oficial"
+    },
+    {
+      "id": "donnie",
+      "nombre": "Donnie",
+      "iniciales": "D",
+      "rol": "Secundario",
+      "resumen": "Aparece en los créditos; su papel exacto no está confirmado.",
+      "texto": "Lo interpreta Brad Carter según los créditos. Algunas webs de fans dicen que es el piloto de los vuelos de contrabando de Brian, pero no está verificado.",
+      "datos": [
+        {
+          "k": "Actor",
+          "v": "Brad Carter"
+        }
+      ],
+      "spoiler": "",
+      "fuente": "medios"
+    }
+  ],
+  "guias": [
+    {
+      "id": "primeras-horas",
+      "titulo": "Primeras horas",
+      "subtitulo": "Consejos para empezar",
+      "icono": "consejos",
+      "tipo": "checklist",
+      "intro": "Consejos sin spoilers publicados el día del lanzamiento. Marca los que ya aplicaste.",
+      "pronto": false,
+      "items": [
+        {
+          "id": "guardado",
+          "titulo": "Conoce el guardado",
+          "texto": "Hay 15 espacios de guardado manual. El juego guarda solo después de cada misión, pero no puedes guardar en medio de una.",
+          "fuente": "medios"
+        },
+        {
+          "id": "banco",
+          "titulo": "Abre una cuenta y deposita",
+          "texto": "Si mueres o te arrestan, pierdes el efectivo que llevas encima. Busca un cajero con la app del banco y guarda tu dinero.",
+          "fuente": "medios"
+        },
+        {
+          "id": "tesoros",
+          "titulo": "Busca tesoros bajo el agua",
+          "texto": "Explorar barcos hundidos es de las formas más fáciles de ganar dinero al principio.",
+          "fuente": "medios"
+        },
+        {
+          "id": "autos",
+          "titulo": "Roba y vende autos",
+          "texto": "Hay un límite de ventas, pero se reinicia al dormir.",
+          "fuente": "medios"
+        },
+        {
+          "id": "bancos",
+          "titulo": "Evita bancos y prestamistas al inicio",
+          "texto": "Casi todo el efectivo trae bolsas de tinta que explotan si te alejas.",
+          "fuente": "medios"
+        },
+        {
+          "id": "ropa",
+          "titulo": "Guarda ropa de recambio en el maletero",
+          "texto": "Cambiarte de ropa ayuda a que la policía te pierda la pista.",
+          "fuente": "medios"
+        },
+        {
+          "id": "calmar",
+          "titulo": "Con una estrella, calma al policía",
+          "texto": "Si no tienes el arma en la mano, enfoca al agente con el gatillo izquierdo para intentar calmar la situación.",
+          "fuente": "medios"
+        },
+        {
+          "id": "rastreador",
+          "titulo": "Cuidado con los autos rastreados",
+          "texto": "Los autos con el icono rojo de rastreador avisan a la policía. Escanéalos antes con la app Waink.",
+          "fuente": "medios"
+        },
+        {
+          "id": "alarmas",
+          "titulo": "No patees puertas con alarma",
+          "texto": "Con el modo Focus, las puertas con alarma brillan en rojo. Usa la ganzúa o busca otra entrada.",
+          "fuente": "medios"
+        },
+        {
+          "id": "viaje",
+          "titulo": "Usa el viaje rápido",
+          "texto": "Pide un RydeMe y, ya dentro del auto, paga 100 $ para saltar al destino.",
+          "fuente": "medios"
+        },
+        {
+          "id": "cambio",
+          "titulo": "Cambia de personaje para moverte",
+          "texto": "Si Jason está lejos, cambia a Lucia: suele esperar cerca del refugio. Es transporte gratis.",
+          "fuente": "medios"
+        },
+        {
+          "id": "gasolinera",
+          "titulo": "Repara en las gasolineras",
+          "texto": "Además de repostar, reparan el auto y suele salir más barato que Scooter Bros.",
+          "fuente": "medios"
+        },
+        {
+          "id": "comer",
+          "titulo": "Come y bebe antes de salir",
+          "texto": "Mejora la salud, la estamina y el Focus.",
+          "fuente": "medios"
+        },
+        {
+          "id": "silenciador",
+          "titulo": "Compra un silenciador",
+          "texto": "En Ammu-Nation es barato desde el principio.",
+          "fuente": "medios"
+        },
+        {
+          "id": "cayos",
+          "titulo": "Termina lo de los Cayos antes de irte",
+          "texto": "Volver después para las misiones secundarias es un viaje largo.",
+          "fuente": "medios"
+        },
+        {
+          "id": "puntos",
+          "titulo": "Mira los puntos cercanos",
+          "texto": "Mantén Abajo en la cruceta para ver lo que hay cerca. Si una misión no aparece, búscala en la lista de misiones del mapa.",
+          "fuente": "medios"
+        },
+        {
+          "id": "zona-muerta",
+          "titulo": "Ajusta la zona muerta del stick",
+          "texto": "Si sientes los controles lentos, redúcela en los ajustes.",
+          "fuente": "medios"
+        },
+        {
+          "id": "escondite",
+          "titulo": "Esconde efectivo en casa de Jason",
+          "texto": "No tendrás cuenta bancaria hasta mediados del capítulo 1, y si te detienen pierdes lo que llevas. Revisa bien la casa: hay un hueco para guardar dinero.",
+          "fuente": "medios"
+        },
+        {
+          "id": "iconos-policia",
+          "titulo": "Mira qué sabe la policía de ti",
+          "texto": "Unos iconos te avisan de cómo te identifican: tu ropa, tu vehículo, si vas solo o en pareja. Cambia justo eso para perderlos.",
+          "fuente": "medios"
+        },
+        {
+          "id": "romance",
+          "titulo": "Pasa tiempo en pareja",
+          "texto": "Si Jason y Lucía no hacen actividades juntos, su romance puede romperse. Seguirán trabajando juntos, pero te perderás una parte importante del juego.",
+          "fuente": "medios"
+        },
+        {
+          "id": "lujo",
+          "titulo": "Cuidado con los coches de lujo",
+          "texto": "Algunos llevan GPS y avisan a la policía de dónde estás en tiempo real.",
+          "fuente": "medios"
+        },
+        {
+          "id": "capitulo1",
+          "titulo": "No acumules dinero en el capítulo 1",
+          "texto": "Una guía especializada dice que el dinero y las mejoras de auto de ese capítulo se pierden al terminarlo. Aún no lo confirman medios grandes.",
+          "fuente": "rumor",
+          "spoiler": true
+        }
+      ]
+    },
+    {
+      "id": "ediciones",
+      "titulo": "Ediciones y precio",
+      "subtitulo": "Estándar · Ultimate",
+      "icono": "ediciones",
+      "tipo": "articulo",
+      "intro": "Qué trae cada edición y cuánto cuesta. Los precios pueden cambiar según la tienda y el tipo de cambio.",
+      "pronto": false,
+      "items": [
+        {
+          "id": "estandar",
+          "titulo": "Edición Estándar · US$ 79,99",
+          "texto": "El juego base, en PS5 y Xbox Series X|S. La versión física es una caja con un código de descarga, sin disco.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "ultimate",
+          "titulo": "Edición Ultimate · US$ 99,99",
+          "texto": "El juego más la mejora Ultimate. Es solo digital. Si ya tienes la Estándar, la mejora se compra aparte por unos US$ 20.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "contenido-ultimate",
+          "titulo": "Qué trae la Ultimate",
+          "texto": "El deportivo '95 Grotti Cheetah, los revólveres Hawk & Little Morgan y versiones personalizadas de las pistolas de Jason y Lucia. También ropa, peinados y tatuajes al estilo Vice City, vehículos para el refugio de Jason, la lancha Shitzu Squalo, un buggy '67 Vapid Dominator y el garaje Paradise Garage.\n\nAdemás desbloquea cinco lugares exclusivos: Rideout Customs, Sara's Unisex Salon, Stock 305, Electric Fang Tattoo y One-Eyed Willie's. Todo se va desbloqueando con los capítulos de la historia.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "bono",
+          "titulo": "Bono por compra anticipada",
+          "texto": "El Vintage Vice City Pack trae el sedán '55 Vapid Stanier, un garaje cerca de Ocean Beach, ropa vintage para Jason y Lucia y un diseño de armas tropical. Las compras digitales suman un mes gratis de GTA+.\n\nCada tienda da un plazo algo distinto (19 o 20 de noviembre).",
+          "fuente": "oficial"
+        },
+        {
+          "id": "peru",
+          "titulo": "Precio en Perú",
+          "texto": "La PS Store de Perú cobra en dólares: US$ 79,99 y US$ 99,99, unos S/ 279–299 según el tipo de cambio de tu tarjeta. No está confirmado si se suma IGV.",
+          "fuente": "medios"
+        },
+        {
+          "id": "otros-paises",
+          "titulo": "Otros países",
+          "texto": "España: 79,99 € y 99,99 €.\nMéxico (Xbox): MXN 1.499 y MXN 1.879.\nColombia (Xbox): COP 339.900 y COP 424.900.\nArgentina (Xbox): ARS 113.299 y ARS 141.990.\n\nEn PS Store de Colombia y Argentina se cobra en dólares.",
+          "fuente": "medios"
+        },
+        {
+          "id": "edad",
+          "titulo": "Clasificación por edad",
+          "texto": "ESRB M (17+) y PEGI 18, por violencia intensa, contenido sexual, drogas y lenguaje fuerte.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "claves",
+          "titulo": "Ojo con las claves baratas",
+          "texto": "Compra solo en PlayStation Store, Microsoft Store, Rockstar Store o tiendas conocidas. Las webs de claves no son tiendas autorizadas.",
+          "fuente": "medios"
+        }
+      ]
+    },
+    {
+      "id": "lanzamiento",
+      "titulo": "Lanzamiento y plataformas",
+      "subtitulo": "Consolas, PC, online y descarga",
+      "icono": "calendario",
+      "tipo": "articulo",
+      "intro": "Dónde se puede jugar y qué necesitas.",
+      "pronto": false,
+      "items": [
+        {
+          "id": "consolas",
+          "titulo": "Consolas",
+          "texto": "PS5, PS5 Pro y Xbox Series X|S. En Xbox One solo se juega por la nube (Xbox Cloud Gaming), con la calidad gráfica de Series S y comprando el juego aparte.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "hora",
+          "titulo": "Hora de desbloqueo",
+          "texto": "A la medianoche de cada país. En PS5 depende del país de tu cuenta de PSN: cambiar la hora de la consola no adelanta nada.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "pc",
+          "titulo": "¿Y en PC?",
+          "texto": "No hay versión de PC anunciada. Las fechas que circulan son rumores.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "online",
+          "titulo": "¿Tiene online?",
+          "texto": "No. GTA VI sale solo para un jugador. El GTA Online de GTA V sigue recibiendo soporte. Un multijugador de GTA VI en 2027 es solo un rumor.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "espacio",
+          "titulo": "Espacio necesario",
+          "texto": "Hasta 212 GB libres. Deja unos 250 GB para los parches: en una Series S de 512 GB ocupa más de la mitad del disco.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "rendimiento",
+          "titulo": "Rendimiento",
+          "texto": "30 fps en todas las consolas, incluida PS5 Pro, sin modo rendimiento. Rockstar dice que lo diseñó así para mantener la densidad y el detalle del mundo.\n\nLa PS5 Pro suma reescalado PSSR y sombras con trazado de rayos. Según Digital Foundry, citado por varios medios, la Series S es la versión más débil.",
+          "fuente": "oficial"
+        }
+      ]
+    },
+    {
+      "id": "novedades",
+      "titulo": "Novedades de jugabilidad",
+      "subtitulo": "Qué cambia respecto a GTA V",
+      "icono": "novedades",
+      "tipo": "articulo",
+      "intro": "Rockstar no publicó una lista oficial: esto sale de su video «An Extended Look» y de las reseñas.",
+      "pronto": false,
+      "items": [
+        {
+          "id": "pareja",
+          "titulo": "Dos protagonistas",
+          "texto": "Juegas con Jason y Lucia y cambias entre ellos en un par de segundos. Pueden ir juntos o separados; cuando no los controlas, siguen su rutina y te escriben.",
+          "fuente": "medios"
+        },
+        {
+          "id": "policia",
+          "titulo": "Policía de 6 estrellas y «Heat»",
+          "texto": "Ahora hay hasta 6 estrellas de búsqueda, y no todo delito te da estrellas: alguien tiene que verte o denunciarte. La policía recuerda tu ropa, tu arma y tu auto, y la zona del delito queda «caliente».\n\nPara despistarla, cambia de ropa o de auto, destruye las cámaras o sepárate de tu pareja. La policía ya no aparece en el minimapa.",
+          "fuente": "medios"
+        },
+        {
+          "id": "perfil",
+          "titulo": "Perfil criminal",
+          "texto": "Cada personaje tiene uno, parecido al honor de Red Dead Redemption 2: refleja si actúas como profesional o usas violencia innecesaria.",
+          "fuente": "medios"
+        },
+        {
+          "id": "robos",
+          "titulo": "Robos en casi cualquier tienda",
+          "texto": "Se pueden asaltar tiendas aunque no estén marcadas, además de bancos y furgones blindados, solo o en pareja. El botín tiene límite de carga y se vende a peristas especializados.",
+          "fuente": "medios"
+        },
+        {
+          "id": "telefono",
+          "titulo": "Teléfono y apps",
+          "texto": "Snapmatic es la red social. BuckMe es el banco. RydeMe sirve de taxi y viaje rápido. Scooter Bros te trae o repara el auto, y Waink escanea autos para ver su seguridad y su valor.",
+          "fuente": "medios"
+        },
+        {
+          "id": "combate",
+          "titulo": "Combate",
+          "texto": "Llevas dos armas cortas y dos largas; el resto se guarda en el vehículo. El autoapuntado viene desactivado. El modo Focus ralentiza el tiempo y marca puntos débiles para desarmar o herir sin matar.",
+          "fuente": "medios"
+        },
+        {
+          "id": "conduccion",
+          "titulo": "Conducción y combustible",
+          "texto": "La física mezcla el peso de GTA IV con la accesibilidad de GTA V. Hay combustible y gasolineras que también reparan. Para quedarte un auto robado, regístralo en un Pay 'n' Spray.",
+          "fuente": "medios"
+        },
+        {
+          "id": "cuerpo",
+          "titulo": "Gimnasio y hábitos",
+          "texto": "La salud, la estamina y el Focus mejoran entrenando, comiendo y durmiendo. Si dejas de entrenar, pierdes progreso.",
+          "fuente": "medios"
+        },
+        {
+          "id": "agua",
+          "titulo": "Natación y buceo",
+          "texto": "Bajo el agua se usa un medidor de pulmones. Puedes bucear en busca de tesoros y disparar mientras nadas.",
+          "fuente": "medios"
+        },
+        {
+          "id": "fauna",
+          "titulo": "Más de 170 animales",
+          "texto": "Incluye aves, mamíferos, peces y reptiles, con especies raras y legendarias al estilo de Red Dead Redemption 2.",
+          "fuente": "medios"
+        },
+        {
+          "id": "actividades",
+          "titulo": "Actividades",
+          "texto": "Básquet, billar, minigolf, golf, tenis, pesca, caza, paracaidismo, kayak, buceo, carreras y citas. Hay huracanes y tormentas tropicales.",
+          "fuente": "medios"
+        }
+      ]
+    },
+    {
+      "id": "armas",
+      "titulo": "Armas",
+      "subtitulo": "Más de 50, por categoría",
+      "icono": "armas",
+      "tipo": "articulo",
+      "intro": "Los nombres salen del material oficial y de guías que copian el menú de Ammu-Nation. Las de la primera lista las mostró Rockstar.",
+      "pronto": false,
+      "items": [
+        {
+          "id": "cuantas",
+          "titulo": "Cuántas puedes llevar",
+          "texto": "Dos armas cortas ocultas y dos largas: una a la espalda y otra en la mano. El resto se guarda en el maletero de tu vehículo personal o en las taquillas de Ammu-Nation, donde también recuperas las que compraste.",
+          "fuente": "medios"
+        },
+        {
+          "id": "donde",
+          "titulo": "Dónde se consiguen",
+          "texto": "La mayoría se compran en Ammu-Nation. Los francotiradores, las ametralladoras y los lanzagranadas y cohetes solo están en las tiendas grandes. También puedes quitárselas a los enemigos.\n\nLa edición Ultimate trae revólveres grabados para Jason y Lucia, sus pistolas personalizadas y una caja de explosivos en la lancha Shitzu Squalo.",
+          "fuente": "medios"
+        },
+        {
+          "id": "oficiales",
+          "titulo": "Las que mostró Rockstar",
+          "texto": "Klose K17 (pistola de Lucia), Girardi ES9 (pistola de Jason), revólver Hawk & Little Morgan (Ultimate), Scorpio Nipper .38, Duke Mustang .357, escopeta Fortune & Son Moreland 850, fusil Duke 556, escopeta Mason & Keen Shortstraw y lanzacohetes Hauners H-AT. También el cóctel molotov y la granada.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "pistolas",
+          "titulo": "Pistolas y revólveres",
+          "texto": "Klose K17 · Girardi ES9 · Hawk & Little Morgan · Scorpio Nipper .38 · Duke Mustang .357 · Duke 1922 · Fairview Kalinga .50 · Scorpio Akulus · Klose K17 MCD (automática) · Girardi ES18 (ráfaga) · Hawk & Little .38 · Wortham WCR1.\n\nAdemás hay un táser, el Coil Shocker.",
+          "fuente": "medios"
+        },
+        {
+          "id": "subfusiles",
+          "titulo": "Subfusiles",
+          "texto": "Vom Feuer VF5 · Vom Feuer VF5C · Wortham W-10 · Zhang Wu Type 9 · Deever Tech DSG · Schlamm DW-9 · BZI Vatra · ADB PD-90.",
+          "fuente": "medios"
+        },
+        {
+          "id": "escopetas",
+          "titulo": "Escopetas",
+          "texto": "Fortune & Son Moreland 850 · Mason & Keen Shortstraw · Shrewsbury Drifter · Shrewsbury Hobo · Girardi Verro · Fortune & Son Gorse 425 · Girardi AZ1200 · Girardi Super400 · Goodwin Comshot 12 · Kozlov KVGA-12 · Mason & Keen Longshot.",
+          "fuente": "medios"
+        },
+        {
+          "id": "fusiles",
+          "titulo": "Fusiles de asalto",
+          "texto": "Duke 556 (se compra tras abrir tu cuenta del banco) · Kozlov KZ-59 · Kozlov Hind · Vom Feuer VF-G1 · Hillinger Heathen · ADB FRA.",
+          "fuente": "medios"
+        },
+        {
+          "id": "tacticos",
+          "titulo": "Fusiles tácticos",
+          "texto": "Wortham W-14 · Hawk & Little Mediator · Hillinger M306 · Hillinger M306 TMR · Wortham W-22.",
+          "fuente": "medios"
+        },
+        {
+          "id": "francotirador",
+          "titulo": "Francotirador",
+          "texto": "Fortune & Son Laird 350 · Shrewsbury SM-69 · Shrewsbury SMS-01 · Fairview FF-SR · Fairview FF-50 (antimaterial). Solo en las Ammu-Nation grandes.",
+          "fuente": "medios"
+        },
+        {
+          "id": "pesadas",
+          "titulo": "Pesadas",
+          "texto": "Hauners H-AT (lanzacohetes) · Hillinger Boomer (lanzagranadas) · Deever Tech GLR40 (lanzagranadas de tambor) · ADB M350 (ametralladora) · Goodwin LMG 6 (ametralladora). Solo en las Ammu-Nation grandes.",
+          "fuente": "medios"
+        },
+        {
+          "id": "dudas",
+          "titulo": "Nombres en duda",
+          "texto": "Algunas guías llaman «Duke 1992» a la Duke 1922 y «ADB PD-80» a la PD-90. Lo corregiremos cuando se confirme.",
+          "fuente": "rumor"
+        }
+      ]
+    },
+    {
+      "id": "vehiculos",
+      "titulo": "Vehículos",
+      "subtitulo": "Los que tienen nombre confirmado",
+      "icono": "vehiculos",
+      "tipo": "articulo",
+      "intro": "Solo los que Rockstar ha nombrado en su material oficial.",
+      "pronto": false,
+      "items": [
+        {
+          "id": "cheetah",
+          "titulo": "'95 Grotti Cheetah",
+          "texto": "Deportivo de mediados de los 90. Viene con la edición Ultimate.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "stanier",
+          "titulo": "'55 Vapid Stanier",
+          "texto": "Sedán clásico bicolor del bono por compra anticipada.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "ganado",
+          "titulo": "Vapid Ganado",
+          "texto": "La camioneta de Jason.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "enduro",
+          "titulo": "Dinka Enduro y kayak Crest",
+          "texto": "La moto y el kayak del refugio de Jason.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "squalo",
+          "titulo": "Shitzu Squalo",
+          "texto": "Lancha de la edición Ultimate, amarrada en Washington Beach.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "dominator",
+          "titulo": "'67 Vapid Dominator Buggy",
+          "texto": "Buggy todoterreno de la edición Ultimate.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "robo-autos",
+          "titulo": "Cómo se roban los autos",
+          "texto": "Hay un minijuego con barra «slim jim» y otro con clonador de llaves para los autos modernos. Algunos llevan GPS.",
+          "fuente": "medios"
+        }
+      ]
+    },
+    {
+      "id": "historia",
+      "titulo": "Historia",
+      "subtitulo": "Premisa y detalles (con spoilers)",
+      "icono": "misiones",
+      "tipo": "articulo",
+      "intro": "Primero lo que mostró Rockstar. Lo que reveló el lanzamiento queda oculto.",
+      "pronto": false,
+      "items": [
+        {
+          "id": "premisa",
+          "titulo": "La premisa",
+          "texto": "Jason y Lucia siempre jugaron con las cartas en contra. Un golpe que parecía fácil sale mal y los mete en una conspiración criminal que cruza todo Leonida. Para salir con vida tendrán que confiar el uno en el otro más que nunca.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "negocio",
+          "titulo": "Su «negocio»",
+          "texto": "En el video «An Extended Look», la pareja acepta encargos de distintos clientes: robos, escoltas y entregas.",
+          "fuente": "medios"
+        },
+        {
+          "id": "capitulos",
+          "titulo": "Estructura y duración",
+          "texto": "La campaña tiene cinco capítulos y 91 misiones principales, y gira alrededor de grandes golpes que se preparan en varias misiones. La historia principal dura entre 65 y 80 horas según el medio; con las actividades secundarias, unas 90 a 100; y completarlo al 100 % lleva más de 200.",
+          "fuente": "medios",
+          "spoiler": false
+        },
+        {
+          "id": "inicio",
+          "titulo": "Cómo empieza",
+          "texto": "Jason arregla una casa junto al agua que le presta Brian antes de que Lucia salga de prisión, y ella se une a las pocas horas. A Vice City se llega tras unas doce horas.",
+          "fuente": "medios",
+          "spoiler": true
+        },
+        {
+          "id": "finales",
+          "titulo": "Relación y finales",
+          "texto": "Hay un sistema de relación entre Jason y Lucia, y Kotaku afirma que hay varios finales según tus decisiones. Rockstar no lo ha confirmado.",
+          "fuente": "medios",
+          "spoiler": true
+        },
+        {
+          "id": "explorar",
+          "titulo": "Explora entre capítulos",
+          "texto": "Con cada capítulo nuevo se abren zonas, contactos y actividades. Vale la pena dar una vuelta por Leonida antes de seguir con la historia.",
+          "fuente": "medios"
+        },
+        {
+          "id": "cap1",
+          "titulo": "Capítulo 1 · Como en el paraíso",
+          "texto": "Empieza con Jason mientras Lucia sigue en la cárcel: pequeños contrabandos y encargos a un ritmo tranquilo para conocer Leonida. Termina con la salida de Lucia. Son 22 misiones y aún no puedes cambiar libremente de personaje.",
+          "fuente": "medios",
+          "spoiler": true
+        },
+        {
+          "id": "cap2",
+          "titulo": "Capítulo 2 · El paraíso perdido",
+          "texto": "Lucia toma el protagonismo en Port Gellhorn, con un monitor electrónico en el tobillo, buscando su lugar entre nuevas amistades y delitos menores. Al final se reencuentra con Jason. Son 11 misiones.",
+          "fuente": "medios",
+          "spoiler": true
+        },
+        {
+          "id": "cap3",
+          "titulo": "Capítulo 3 · Llegada a Vice City",
+          "texto": "La pareja llega a la gran ciudad y se mete en los bajos fondos: drogas, robos de autos y bancos, hasta un gran golpe a un cártel. Es el capítulo más largo, con 26 misiones.",
+          "fuente": "medios",
+          "spoiler": true
+        },
+        {
+          "id": "cap4",
+          "titulo": "Capítulo 4 · Vice City, nena",
+          "texto": "Jason y Lucia montan su propio negocio en Ocean Beach. Sube el ritmo con trabajos de seguridad, entregas y misiones encubiertas, y termina con uno de los grandes enfrentamientos de la historia. Son 25 misiones.",
+          "fuente": "medios",
+          "spoiler": true
+        },
+        {
+          "id": "cap5",
+          "titulo": "Capítulo 5 · Top of the World, Ma",
+          "texto": "El final: corto e intenso, con 7 misiones en las que la pareja da su último gran golpe.",
+          "fuente": "medios",
+          "spoiler": true
+        }
+      ]
+    },
+    {
+      "id": "misiones",
+      "titulo": "Misiones",
+      "subtitulo": "96 misiones · 5 capítulos",
+      "icono": "misiones",
+      "tipo": "checklist",
+      "intro": "Marca las que ya terminaste: tu progreso se guarda en el teléfono. Los nombres son los de la versión en español según Eurogamer; otros medios cuentan 91 porque juntan algunos pasos. Ojo: los nombres adelantan parte de la historia. Al final están las secundarias «Extraños y locos».",
+      "pronto": false,
+      "items": [
+        {
+          "id": "c1-01",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Prólogo",
+          "texto": ""
+        },
+        {
+          "id": "c1-02",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Día de pesca",
+          "texto": "Opcional: reparaciones en casa de Jason."
+        },
+        {
+          "id": "c1-03",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Equípate",
+          "texto": "Objetivo: hazte con otra arma."
+        },
+        {
+          "id": "c1-04",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Es solo un rasguño",
+          "texto": "Objetivo: repara el coche."
+        },
+        {
+          "id": "c1-05",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Costes de laboratorio",
+          "texto": "Objetivo: cobra el alquiler para Brian."
+        },
+        {
+          "id": "c1-06",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Atención no deseada",
+          "texto": "Objetivo: ve a ver a Cal."
+        },
+        {
+          "id": "c1-07",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Fontanería",
+          "texto": "Objetivo: cóbrale el alquiler a Mandy."
+        },
+        {
+          "id": "c1-08",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "¡Oye, Arnold!",
+          "texto": "Objetivo: reúnete con Brian en el hotel Crastenburg. Aquí tomas una decisión sobre Arnold."
+        },
+        {
+          "id": "c1-09",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Island Dreams",
+          "texto": ""
+        },
+        {
+          "id": "c1-10",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Feng Shui",
+          "texto": "Opcionales: haz la compra, compra flores, cómprale un collar a Lucía, ve a la peluquería y consigue su ropa."
+        },
+        {
+          "id": "c1-11",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "De vuelta a casa",
+          "texto": ""
+        },
+        {
+          "id": "c1-12",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Arreglando el entuerto de Donnie",
+          "texto": "Objetivo: busca el paquete de Donnie."
+        },
+        {
+          "id": "c1-13",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "BuckMe",
+          "texto": "Objetivo: abre tu cuenta bancaria."
+        },
+        {
+          "id": "c1-14",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Con los pies en la tierra",
+          "texto": "Objetivo: reúnete con Brian."
+        },
+        {
+          "id": "c1-15",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Ingresa dinero en BuckMe",
+          "texto": ""
+        },
+        {
+          "id": "c1-16",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Ahorra para el futuro",
+          "texto": "Objetivo: ahorra 5.000 $."
+        },
+        {
+          "id": "c1-17",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Libertad por un día",
+          "texto": "Objetivo: reúnete con Mattia y Kat. Aquí decides si le das la mano a Mattia."
+        },
+        {
+          "id": "c1-18",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Cielos despejados",
+          "texto": "Objetivo: reúnete con Donnie."
+        },
+        {
+          "id": "c1-19",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Construyendo una vida",
+          "texto": ""
+        },
+        {
+          "id": "c1-20",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Terreno pantanoso",
+          "texto": "Objetivo: reúnete con Brian."
+        },
+        {
+          "id": "c1-21",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Don Desaparecido",
+          "texto": "Objetivo: ve a la caravana de Donnie."
+        },
+        {
+          "id": "c1-22",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Recalibración",
+          "texto": "Objetivo: habla con Lucía."
+        },
+        {
+          "id": "c1-23",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Trampa para turistas",
+          "texto": "Objetivo: acepta la oferta de Mattia."
+        },
+        {
+          "id": "c1-24",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Hogar, dulce hogar",
+          "texto": ""
+        },
+        {
+          "id": "c1-25",
+          "grupo": "Capítulo 1 · Como en el paraíso",
+          "titulo": "Hora del alta",
+          "texto": ""
+        },
+        {
+          "id": "c2-01",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "¿Qué hay en la bolsa?",
+          "texto": ""
+        },
+        {
+          "id": "c2-02",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Recién mudados",
+          "texto": ""
+        },
+        {
+          "id": "c2-03",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Viaje de chicas",
+          "texto": ""
+        },
+        {
+          "id": "c2-04",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Moses",
+          "texto": ""
+        },
+        {
+          "id": "c2-05",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Persiguiendo ambulancias",
+          "texto": ""
+        },
+        {
+          "id": "c2-06",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Behind on Payments",
+          "texto": ""
+        },
+        {
+          "id": "c2-07",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Donde las dan, las toman",
+          "texto": ""
+        },
+        {
+          "id": "c2-08",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Vehículo de diario",
+          "texto": ""
+        },
+        {
+          "id": "c2-09",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Desayuno turbulento",
+          "texto": ""
+        },
+        {
+          "id": "c2-10",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Pausa para el café",
+          "texto": ""
+        },
+        {
+          "id": "c2-11",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Delicias vespertinas",
+          "texto": ""
+        },
+        {
+          "id": "c2-12",
+          "grupo": "Capítulo 2 · El paraíso perdido",
+          "titulo": "Hora de salida",
+          "texto": ""
+        },
+        {
+          "id": "c3-01",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "A elección del repartidor",
+          "texto": "Solo con Jason."
+        },
+        {
+          "id": "c3-02",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "De dudosa procedencia",
+          "texto": ""
+        },
+        {
+          "id": "c3-03",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Sabiduría materna",
+          "texto": "Solo con Lucía."
+        },
+        {
+          "id": "c3-04",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Ven, gatito, gatito",
+          "texto": "Solo con Jason."
+        },
+        {
+          "id": "c3-05",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Intimando con Bobby",
+          "texto": "Solo con Jason."
+        },
+        {
+          "id": "c3-06",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "De cena con los Heath",
+          "texto": ""
+        },
+        {
+          "id": "c3-07",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Servicio de vehículos",
+          "texto": "Solo con Lucía."
+        },
+        {
+          "id": "c3-08",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Artista principal",
+          "texto": ""
+        },
+        {
+          "id": "c3-09",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Primeras impresiones",
+          "texto": ""
+        },
+        {
+          "id": "c3-10",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Tráfico en Crosstown",
+          "texto": "Si eliges a Raúl, solo con Lucía; si eliges a Karim, solo con Jason."
+        },
+        {
+          "id": "c3-11",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Comprobación de crédito",
+          "texto": ""
+        },
+        {
+          "id": "c3-12",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "El zorro ruso de Randy",
+          "texto": ""
+        },
+        {
+          "id": "c3-13",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Correr o morir",
+          "texto": "Solo con Jason."
+        },
+        {
+          "id": "c3-14",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Raul's Next Job",
+          "texto": ""
+        },
+        {
+          "id": "c3-15",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Sin Fronteras National Bank",
+          "texto": "Parte del golpe del cártel."
+        },
+        {
+          "id": "c3-16",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Especialista en seguridad",
+          "texto": "Parte del golpe del cártel."
+        },
+        {
+          "id": "c3-17",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Pillados",
+          "texto": ""
+        },
+        {
+          "id": "c3-18",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Heist Planning",
+          "texto": "Parte del golpe del cártel."
+        },
+        {
+          "id": "c3-19",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Propiedad de la empresa",
+          "texto": "Parte del golpe del cártel."
+        },
+        {
+          "id": "c3-20",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Palabra de seguridad",
+          "texto": "Parte del golpe del cártel."
+        },
+        {
+          "id": "c3-21",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "El eslabón perdido",
+          "texto": "Parte del golpe del cártel. Solo con Lucía."
+        },
+        {
+          "id": "c3-22",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Cutis",
+          "texto": ""
+        },
+        {
+          "id": "c3-23",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Costes explosivos",
+          "texto": "Parte del golpe del cártel."
+        },
+        {
+          "id": "c3-24",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "Fardo a fardo",
+          "texto": ""
+        },
+        {
+          "id": "c3-25",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "La vivienda en Leonida Sur",
+          "texto": "Solo con Lucía."
+        },
+        {
+          "id": "c3-26",
+          "grupo": "Capítulo 3 · Llegada a Vice City",
+          "titulo": "El golpe del cártel",
+          "texto": "Parte del golpe del cártel."
+        },
+        {
+          "id": "c4-01",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Ocean Beach",
+          "texto": ""
+        },
+        {
+          "id": "c4-02",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Otra vida",
+          "texto": ""
+        },
+        {
+          "id": "c4-03",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Coches de empresa",
+          "texto": ""
+        },
+        {
+          "id": "c4-04",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Asesoramiento jurídico",
+          "texto": ""
+        },
+        {
+          "id": "c4-05",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Juerga de cristal",
+          "texto": ""
+        },
+        {
+          "id": "c4-06",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Pesos pesados",
+          "texto": ""
+        },
+        {
+          "id": "c4-07",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Dispara la cámara",
+          "texto": ""
+        },
+        {
+          "id": "c4-08",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Se va notando",
+          "texto": "Parte del robo en el AIVC. Solo con Lucía."
+        },
+        {
+          "id": "c4-09",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Exceso de equipaje",
+          "texto": "Parte del robo en el AIVC. Solo con Jason."
+        },
+        {
+          "id": "c4-10",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "La hora de la verdad",
+          "texto": "Solo con Jason."
+        },
+        {
+          "id": "c4-11",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Solo amateurs",
+          "texto": "Parte del robo en el AIVC. Solo con Lucía."
+        },
+        {
+          "id": "c4-12",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Inyección de capital",
+          "texto": "Parte del robo en el AIVC. Solo con Lucía."
+        },
+        {
+          "id": "c4-13",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Trabajo sucio",
+          "texto": "Parte del robo en el AIVC."
+        },
+        {
+          "id": "c4-14",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Aventuras de canguro",
+          "texto": "Solo con Jason."
+        },
+        {
+          "id": "c4-15",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Rafa's Kidnapping",
+          "texto": "Solo con Jason."
+        },
+        {
+          "id": "c4-16",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Pruebas dantescas",
+          "texto": "Solo con Jason."
+        },
+        {
+          "id": "c4-17",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Cosas de críos",
+          "texto": ""
+        },
+        {
+          "id": "c4-18",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Despliegue ofensivo",
+          "texto": "Parte del robo en el AIVC. Solo con Lucía."
+        },
+        {
+          "id": "c4-19",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Monitoreo",
+          "texto": "Parte del robo en el AIVC. Solo con Jason."
+        },
+        {
+          "id": "c4-20",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Método de entrega",
+          "texto": "Parte del robo en el AIVC. Solo con Jason."
+        },
+        {
+          "id": "c4-21",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Espíritu de equipo",
+          "texto": "Parte del robo en el AIVC. Solo con Lucía."
+        },
+        {
+          "id": "c4-22",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "A pedir de boca",
+          "texto": "Parte del robo en el AIVC."
+        },
+        {
+          "id": "c4-23",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Cabezas de cartel",
+          "texto": ""
+        },
+        {
+          "id": "c4-24",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Robo en el aire",
+          "texto": "Parte del robo en el AIVC."
+        },
+        {
+          "id": "c4-25",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Ocaso",
+          "texto": ""
+        },
+        {
+          "id": "c4-26",
+          "grupo": "Capítulo 4 · Vice City, nena",
+          "titulo": "Empezar de cero",
+          "texto": ""
+        },
+        {
+          "id": "c5-01",
+          "grupo": "Capítulo 5 · Top of the World, Ma",
+          "titulo": "Pájaro en mano",
+          "texto": ""
+        },
+        {
+          "id": "c5-02",
+          "grupo": "Capítulo 5 · Top of the World, Ma",
+          "titulo": "Demasiadas libertades",
+          "texto": ""
+        },
+        {
+          "id": "c5-03",
+          "grupo": "Capítulo 5 · Top of the World, Ma",
+          "titulo": "A cara de perro",
+          "texto": ""
+        },
+        {
+          "id": "c5-04",
+          "grupo": "Capítulo 5 · Top of the World, Ma",
+          "titulo": "Yo nací en VC",
+          "texto": ""
+        },
+        {
+          "id": "c5-05",
+          "grupo": "Capítulo 5 · Top of the World, Ma",
+          "titulo": "Operación Bestia Gloriosa",
+          "texto": ""
+        },
+        {
+          "id": "c5-06",
+          "grupo": "Capítulo 5 · Top of the World, Ma",
+          "titulo": "Custodia preventiva",
+          "texto": ""
+        },
+        {
+          "id": "c5-07",
+          "grupo": "Capítulo 5 · Top of the World, Ma",
+          "titulo": "El final del camino",
+          "texto": ""
+        },
+        {
+          "id": "ext1-shirley",
+          "grupo": "Extraños y locos · Capítulo 1",
+          "titulo": "Shirley",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext1-kirk",
+          "grupo": "Extraños y locos · Capítulo 1",
+          "titulo": "Kirk",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext2-kyle",
+          "grupo": "Extraños y locos · Capítulo 2",
+          "titulo": "Kyle",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext2-moses",
+          "grupo": "Extraños y locos · Capítulo 2",
+          "titulo": "Moses",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext2-bret-vogel",
+          "grupo": "Extraños y locos · Capítulo 2",
+          "titulo": "Bret Vogel",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext2-billy",
+          "grupo": "Extraños y locos · Capítulo 2",
+          "titulo": "Billy",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext3-yago",
+          "grupo": "Extraños y locos · Capítulo 3",
+          "titulo": "Yago",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext3-andy",
+          "grupo": "Extraños y locos · Capítulo 3",
+          "titulo": "Andy",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext3-yasmani",
+          "grupo": "Extraños y locos · Capítulo 3",
+          "titulo": "Yasmani",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext3-randy",
+          "grupo": "Extraños y locos · Capítulo 3",
+          "titulo": "Randy",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext3-tyrone",
+          "grupo": "Extraños y locos · Capítulo 3",
+          "titulo": "Tyrone",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext3-dunk",
+          "grupo": "Extraños y locos · Capítulo 3",
+          "titulo": "Dunk",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext4-eddie-acosta",
+          "grupo": "Extraños y locos · Capítulo 4",
+          "titulo": "Eddie Acosta",
+          "texto": "Misión secundaria con este personaje."
+        },
+        {
+          "id": "ext4-pilot-pete",
+          "grupo": "Extraños y locos · Capítulo 4",
+          "titulo": "Pilot Pete",
+          "texto": "Misión secundaria con este personaje."
+        }
+      ]
+    },
+    {
+      "id": "resenas",
+      "titulo": "Reseñas",
+      "subtitulo": "Metacritic 99",
+      "icono": "resenas",
+      "tipo": "articulo",
+      "intro": "Qué dijo la crítica el día del lanzamiento.",
+      "pronto": false,
+      "items": [
+        {
+          "id": "notas",
+          "titulo": "Notas",
+          "texto": "Metacritic: 99 en PS5, igual que The Legend of Zelda: Ocarina of Time, el juego mejor valorado del sitio. OpenCritic: 99.\n\nIGN y GameSpot le dieron 10/10; Eurogamer y GamesRadar+, 5/5; Game Informer, 100.",
+          "fuente": "medios"
+        },
+        {
+          "id": "fuertes",
+          "titulo": "Lo mejor",
+          "texto": "El mundo abierto más vivo y detallado de la generación, la pareja protagonista, los gráficos, el sonido y las persecuciones policiales.",
+          "fuente": "medios"
+        },
+        {
+          "id": "debiles",
+          "titulo": "Lo que menos gustó",
+          "texto": "Los 30 fps fijos, partes de la historia que se alargan, un apuntado algo torpe y lo difícil que es ganar dinero.",
+          "fuente": "medios"
+        }
+      ]
+    },
+    {
+      "id": "trucos",
+      "titulo": "Trucos",
+      "subtitulo": "61 trucos · 16 confirmados",
+      "icono": "trucos",
+      "tipo": "trucos",
+      "intro": "Nombres en español; entre paréntesis, el nombre en inglés con el que salen en muchas guías. «Confirmado»: al menos dos medios dan el mismo código. Iremos sumando los que faltan.",
+      "pronto": false,
+      "items": [
+        {
+          "id": "como",
+          "grupo": "Cómo usarlos",
+          "titulo": "Abre el teléfono y prepara el código",
+          "texto": "Pulsa Arriba para sacar el teléfono, mantén L1 (LB en Xbox) y pulsa R1 (RB). Después mete la secuencia de la cruceta del truco. Es la misma en PS5 y Xbox.",
+          "fuente": "medios",
+          "ps": [
+            "arriba",
+            "l1",
+            "r1"
+          ],
+          "xbox": [
+            "arriba",
+            "lb",
+            "rb"
+          ],
+          "estado": "confirmado"
+        },
+        {
+          "id": "aviso",
+          "grupo": "Cómo usarlos",
+          "titulo": "Antes de usarlos",
+          "texto": "Solo funcionan después de terminar la historia, y cada uno tiene su reto en Pausa › Progreso › Trucos. Desactivan el guardado y los trofeos: haz un guardado aparte y vuelve a cargarlo para recuperarlos. Los códigos de GTA V no sirven.",
+          "fuente": "medios",
+          "estado": "confirmado"
+        },
+        {
+          "id": "consejo-gratis",
+          "grupo": "Consejos",
+          "titulo": "Empieza por los que no piden nada más",
+          "texto": "Conseguir $250.000, Concentración ilimitada, Fuerza de ataque y Cambiar el clima se activan con solo terminar la historia. Son los primeros que puedes probar.",
+          "fuente": "medios"
+        },
+        {
+          "id": "consejo-municion",
+          "grupo": "Consejos",
+          "titulo": "Las galerías de tiro dan tres trucos",
+          "texto": "Con 25 medallas de bronce desbloqueas Munición al máximo; con 25 de plata, Munición infinita; y con 25 de oro, Sin recargar. Si el oro se te resiste, las otras dos te sirven mientras tanto.",
+          "fuente": "medios"
+        },
+        {
+          "id": "consejo-pareja",
+          "grupo": "Consejos",
+          "titulo": "Juega en pareja para los filtros",
+          "texto": "Varios filtros se desbloquean pasando tiempo con tu pareja, yendo de la mano o robando tiendas juntos. Mantén a Jason y Lucia juntos en la partida normal y los irás sumando sin esfuerzo extra.",
+          "fuente": "medios"
+        },
+        {
+          "id": "consejo-vehiculos",
+          "grupo": "Consejos",
+          "titulo": "Los retos de una categoría dan dos vehículos",
+          "texto": "Completar 5 retos de una categoría desbloquea un vehículo, y completarla entera, otro mejor. Por ejemplo, en supervivencia: con 5 retos, el hidrodeslizador; con todos, el tanque Rhino.",
+          "fuente": "medios"
+        },
+        {
+          "id": "consejo-partida",
+          "grupo": "Consejos",
+          "titulo": "Usa los trucos en una partida aparte",
+          "texto": "Como desactivan el guardado y los trofeos, guarda antes en otra ranura. Avanza tus trofeos en una partida normal y deja los trucos para cuando quieras hacer el cabra.",
+          "fuente": "medios"
+        },
+        {
+          "id": "250-000",
+          "grupo": "Jugador",
+          "titulo": "Conseguir $250.000",
+          "texto": "Te da 250.000 $ al instante. No se conserva, porque con trucos no se puede guardar.",
+          "fuente": "medios",
+          "reto": "Terminar la historia.",
+          "estado": "confirmado",
+          "ps": [
+            "arriba",
+            "derecha",
+            "abajo",
+            "izquierda",
+            "arriba",
+            "izquierda",
+            "abajo",
+            "derecha"
+          ]
+        },
+        {
+          "id": "drunk",
+          "grupo": "Jugador",
+          "titulo": "Borrachera (Drunk)",
+          "texto": "Jason o Lucia y su pareja quedan borrachos.",
+          "fuente": "medios",
+          "reto": "Gastar 2.500 $ en alcohol.",
+          "estado": "confirmado",
+          "ps": [
+            "arriba",
+            "izquierda",
+            "derecha",
+            "arriba",
+            "arriba",
+            "izquierda",
+            "derecha",
+            "arriba",
+            "izquierda",
+            "derecha"
+          ]
+        },
+        {
+          "id": "raise-heat-level",
+          "grupo": "Jugador",
+          "titulo": "Aumentar el nivel de alerta (Raise Heat Level)",
+          "texto": "Sube tu nivel de calor en todo el mapa.",
+          "fuente": "medios",
+          "reto": "Perder 25 veces una búsqueda de 3 estrellas.",
+          "estado": "confirmado",
+          "ps": [
+            "izquierda",
+            "abajo",
+            "derecha",
+            "abajo",
+            "arriba",
+            "abajo",
+            "arriba"
+          ]
+        },
+        {
+          "id": "body-armor",
+          "grupo": "Jugador",
+          "titulo": "Blindaje corporal (Body Armor)",
+          "texto": "Te equipa un chaleco antibalas.",
+          "fuente": "medios",
+          "reto": "Completar 100 entrenamientos.",
+          "estado": "confirmado",
+          "ps": [
+            "abajo",
+            "arriba",
+            "izquierda",
+            "arriba",
+            "arriba",
+            "arriba",
+            "arriba",
+            "arriba",
+            "abajo",
+            "abajo"
+          ]
+        },
+        {
+          "id": "raise-wanted-level",
+          "grupo": "Jugador",
+          "titulo": "Aumentar la búsqueda en todo el mapa (Raise Wanted Level)",
+          "texto": "Sube tu nivel de búsqueda. Vandal y otros cinco medios dan esta secuencia; solo uno publicó otra distinta.",
+          "fuente": "medios",
+          "reto": "Perder 50 veces una búsqueda de 3 estrellas.",
+          "estado": "discrepa",
+          "ps": [
+            "izquierda",
+            "abajo",
+            "derecha",
+            "abajo",
+            "arriba",
+            "derecha",
+            "arriba"
+          ]
+        },
+        {
+          "id": "unlimited-focus",
+          "grupo": "Jugador",
+          "titulo": "Concentración ilimitada (Unlimited Focus)",
+          "texto": "La barra de concentración (Focus) no se agota. Vandal, GAMES.GG y otros cinco medios dan esta secuencia; solo uno publicó otra distinta.",
+          "fuente": "medios",
+          "reto": "Terminar la historia.",
+          "estado": "discrepa",
+          "ps": [
+            "abajo",
+            "arriba",
+            "arriba",
+            "abajo",
+            "arriba",
+            "abajo",
+            "arriba",
+            "abajo",
+            "arriba",
+            "derecha"
+          ]
+        },
+        {
+          "id": "no-fall-damage",
+          "grupo": "Jugador",
+          "titulo": "Sin daño por caídas (No Fall Damage)",
+          "texto": "Inmune al daño por caída.",
+          "fuente": "medios",
+          "reto": "Sobrevivir 20 veces a una caída de unos 12 m.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "parachute",
+          "grupo": "Jugador",
+          "titulo": "Conseguir un paracaídas (Parachute)",
+          "texto": "Añade un paracaídas a tu equipo.",
+          "fuente": "medios",
+          "reto": "Hacer 50 saltos en paracaídas o BASE desde unos 90 m o más.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "repair-vehicle",
+          "grupo": "Jugador",
+          "titulo": "Reparar vehículo (Repair Vehicle)",
+          "texto": "Repara del todo el vehículo actual.",
+          "fuente": "medios",
+          "reto": "Ganar 10 carreras en Gellhorn Raceway, Thrillbilly Mud Club y Boone Speedway.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "unlimited-nitrous",
+          "grupo": "Jugador",
+          "titulo": "Nitro y combustible ilimitados (Unlimited Nitrous)",
+          "texto": "Nitro y gasolina infinitos.",
+          "fuente": "medios",
+          "reto": "Completar 50 saltos acrobáticos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "max-ammo",
+          "grupo": "Combate",
+          "titulo": "Munición al máximo (Max Ammo)",
+          "texto": "Llena toda la munición.",
+          "fuente": "medios",
+          "reto": "25 medallas de bronce o mejores en galerías de tiro (un medio dice 20).",
+          "estado": "confirmado",
+          "ps": [
+            "abajo",
+            "arriba",
+            "derecha",
+            "abajo",
+            "izquierda",
+            "izquierda",
+            "arriba",
+            "arriba",
+            "abajo",
+            "izquierda"
+          ]
+        },
+        {
+          "id": "infinite-ammo",
+          "grupo": "Combate",
+          "titulo": "Munición infinita (Infinite Ammo)",
+          "texto": "La munición no se acaba.",
+          "fuente": "medios",
+          "reto": "25 medallas de plata o mejores en galerías de tiro.",
+          "estado": "confirmado",
+          "ps": [
+            "abajo",
+            "arriba",
+            "derecha",
+            "abajo",
+            "izquierda",
+            "izquierda",
+            "arriba",
+            "abajo",
+            "abajo",
+            "abajo"
+          ]
+        },
+        {
+          "id": "no-reload",
+          "grupo": "Combate",
+          "titulo": "Sin recargar (No Reload)",
+          "texto": "Munición infinita y sin recargar.",
+          "fuente": "medios",
+          "reto": "25 medallas de oro en galerías de tiro.",
+          "estado": "confirmado",
+          "ps": [
+            "abajo",
+            "arriba",
+            "derecha",
+            "abajo",
+            "izquierda",
+            "izquierda",
+            "arriba",
+            "abajo",
+            "abajo",
+            "arriba"
+          ]
+        },
+        {
+          "id": "attack-force",
+          "grupo": "Combate",
+          "titulo": "Fuerza de ataque (Attack Force)",
+          "texto": "Tus balas y golpes lanzan por los aires a los objetivos.",
+          "fuente": "medios",
+          "reto": "Terminar la historia.",
+          "estado": "confirmado",
+          "ps": [
+            "abajo",
+            "arriba",
+            "izquierda",
+            "izquierda",
+            "derecha",
+            "abajo",
+            "abajo",
+            "arriba",
+            "abajo"
+          ]
+        },
+        {
+          "id": "exploding-balls",
+          "grupo": "Combate",
+          "titulo": "Pelotas explosivas (Exploding Balls)",
+          "texto": "Las pelotas de deporte explotan al impactar.",
+          "fuente": "medios",
+          "reto": "Dañar con explosivos a 20 enemigos.",
+          "estado": "confirmado",
+          "ps": [
+            "abajo",
+            "arriba",
+            "izquierda",
+            "izquierda",
+            "derecha",
+            "abajo",
+            "abajo",
+            "arriba",
+            "derecha"
+          ]
+        },
+        {
+          "id": "vehicle-force",
+          "grupo": "Combate",
+          "titulo": "Potencia del vehículo (Vehicle Force)",
+          "texto": "Los choques lanzan por los aires a los objetivos. Ojo: se parece mucho a Attack Force.",
+          "fuente": "medios",
+          "reto": "Eliminar a 25 enemigos con un vehículo.",
+          "estado": "confirmado",
+          "ps": [
+            "abajo",
+            "arriba",
+            "izquierda",
+            "izquierda",
+            "derecha",
+            "abajo",
+            "izquierda",
+            "arriba",
+            "abajo"
+          ]
+        },
+        {
+          "id": "all-explosive-weapons",
+          "grupo": "Combate",
+          "titulo": "Todas las armas explosivas (All Explosive Weapons)",
+          "texto": "Todas las armas explosivas con munición llena.",
+          "fuente": "medios",
+          "reto": "Lanzar 100 granadas.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "incendiary-ammo",
+          "grupo": "Combate",
+          "titulo": "Munición incendiaria (Incendiary Ammo)",
+          "texto": "Toda la munición es incendiaria.",
+          "fuente": "medios",
+          "reto": "Quemar a 100 enemigos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "exploding-bottles",
+          "grupo": "Combate",
+          "titulo": "Botellas explosivas (Exploding Bottles)",
+          "texto": "Las botellas explotan al dañarlas.",
+          "fuente": "medios",
+          "reto": "Lanzar 100 cócteles molotov.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "explosive-shotgun",
+          "grupo": "Combate",
+          "titulo": "Escopeta explosiva (Explosive Shotgun)",
+          "texto": "Te da una Mason & Keen Shortstraw con cartuchos explosivos.",
+          "fuente": "medios",
+          "reto": "Dañar con explosivos a 100 enemigos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "hauners-h-at",
+          "grupo": "Combate",
+          "titulo": "Lanzacohetes Hauners H-AT",
+          "texto": "Te da un lanzacohetes.",
+          "fuente": "medios",
+          "reto": "Volar 100 vehículos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "maibatsu-boomazoom",
+          "grupo": "Vehículos",
+          "titulo": "Maibatsu Boomazoom",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Completar 5 retos de compras.",
+          "estado": "confirmado",
+          "ps": [
+            "izquierda",
+            "arriba",
+            "derecha",
+            "abajo",
+            "izquierda",
+            "izquierda",
+            "arriba",
+            "izquierda"
+          ]
+        },
+        {
+          "id": "mtl-pumper",
+          "grupo": "Vehículos",
+          "titulo": "Camión de bomberos (MTL Pumper)",
+          "texto": "Aparece un camión de bomberos.",
+          "fuente": "medios",
+          "reto": "Encontrar el MTL Pumper y escanearlo con la app WAiNK (queda registrado en Progreso).",
+          "estado": "confirmado",
+          "ps": [
+            "izquierda",
+            "arriba",
+            "derecha",
+            "abajo",
+            "izquierda",
+            "derecha",
+            "derecha",
+            "arriba"
+          ]
+        },
+        {
+          "id": "hvy-bulldozer",
+          "grupo": "Vehículos",
+          "titulo": "Excavadora (HVY Bulldozer)",
+          "texto": "Aparece una excavadora.",
+          "fuente": "medios",
+          "reto": "Encontrar la excavadora HVY y escanearlo con la app WAiNK (queda registrado en Progreso).",
+          "estado": "confirmado",
+          "ps": [
+            "izquierda",
+            "arriba",
+            "derecha",
+            "abajo",
+            "izquierda",
+            "derecha",
+            "derecha",
+            "abajo"
+          ]
+        },
+        {
+          "id": "interstate-ambulance",
+          "grupo": "Vehículos",
+          "titulo": "Ambulancia (Interstate Ambulance)",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Encontrar la ambulancia Interstate y escanearlo con la app WAiNK (queda registrado en Progreso).",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "airboat-09",
+          "grupo": "Vehículos",
+          "titulo": "Hidrodeslizador Airboat 09",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "5 retos de supervivencia.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "bravado-banshee",
+          "grupo": "Vehículos",
+          "titulo": "Bravado Banshee",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Todos los retos de combate.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "tuff-bmx",
+          "grupo": "Vehículos",
+          "titulo": "Bicicleta Tuff BMX",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "5 retos de forma física.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "nagasaki-carbon-rs",
+          "grupo": "Vehículos",
+          "titulo": "Nagasaki Carbon RS",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Todos los retos de exploración.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "65-vapid-dominator",
+          "grupo": "Vehículos",
+          "titulo": "'65 Vapid Dominator",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Todos los retos de forma física.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "progen-emerus",
+          "grupo": "Vehículos",
+          "titulo": "Progen Emerus",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Todos los retos de vehículos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "inflatable-flamingo",
+          "grupo": "Vehículos",
+          "titulo": "Flamenco inflable (Inflatable Flamingo)",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Destruir 50 «flamencos de cocaína».",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "vapid-stanier-g2-taxi",
+          "grupo": "Vehículos",
+          "titulo": "Taxi Vapid Stanier G2",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "5 retos deportivos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "hauners-p-996-lazer",
+          "grupo": "Vehículos",
+          "titulo": "Caza Hauners P-996 Lazer",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Completar todos los retos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "lapwing-mallard",
+          "grupo": "Vehículos",
+          "titulo": "Avioneta Lapwing Mallard",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "5 retos de vehículos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "brimstone-golfer",
+          "grupo": "Vehículos",
+          "titulo": "Carrito de golf Brimstone Golfer",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Todos los retos deportivos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "hauners-rhino-tank",
+          "grupo": "Vehículos",
+          "titulo": "Tanque Rhino (Hauners)",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Todos los retos de supervivencia.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "maibatsu-sanchez",
+          "grupo": "Vehículos",
+          "titulo": "Moto de cross Maibatsu Sanchez",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "5 retos criminales.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "nagasaki-sea-sparrow",
+          "grupo": "Vehículos",
+          "titulo": "Helicóptero Nagasaki Sea Sparrow",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "5 retos de exploración.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "speeder-700-gt",
+          "grupo": "Vehículos",
+          "titulo": "Lancha Speeder 700 GT",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "5 retos de combate.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "truffade-thrax",
+          "grupo": "Vehículos",
+          "titulo": "Truffade Thrax",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Todos los retos de compras.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "western-zombie-bobber",
+          "grupo": "Vehículos",
+          "titulo": "Moto Western Zombie Bobber",
+          "texto": "Aparece este vehículo.",
+          "fuente": "medios",
+          "reto": "Todos los retos criminales.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "cycle-weather",
+          "grupo": "Entorno",
+          "titulo": "Cambiar el clima (Cycle Weather)",
+          "texto": "Va rotando el clima. Vandal, GAMES.GG y otros cinco medios dan esta secuencia; solo uno publicó otra distinta.",
+          "fuente": "medios",
+          "reto": "Terminar la historia.",
+          "estado": "discrepa",
+          "ps": [
+            "abajo",
+            "derecha",
+            "arriba",
+            "abajo",
+            "derecha",
+            "arriba",
+            "derecha"
+          ]
+        },
+        {
+          "id": "move-time-forward",
+          "grupo": "Entorno",
+          "titulo": "Avanzar la hora (Move Time Forward)",
+          "texto": "Avanza la hora del día.",
+          "fuente": "medios",
+          "reto": "Encontrar 10 relojes coleccionables.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "pause-time-of-day",
+          "grupo": "Entorno",
+          "titulo": "Pausar la hora del día (Pause Time of Day)",
+          "texto": "Congela la hora del día.",
+          "fuente": "medios",
+          "reto": "Encontrar 20 relojes coleccionables.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "cataclysm",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Cataclismo (Cataclysm)",
+          "texto": "Llena el mundo de humo turbio.",
+          "fuente": "medios",
+          "reto": "Encontrar el Vamos de Martha y escanearlo con la app WAiNK (queda registrado en Progreso).",
+          "estado": "confirmado",
+          "ps": [
+            "abajo",
+            "abajo",
+            "arriba",
+            "derecha",
+            "derecha",
+            "arriba",
+            "izquierda",
+            "izquierda",
+            "derecha",
+            "derecha"
+          ]
+        },
+        {
+          "id": "dollhouse",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Casa de muñecas (Dollhouse)",
+          "texto": "Colores vivos y formato estrecho.",
+          "fuente": "medios",
+          "reto": "Pasar 8 horas con tu pareja.",
+          "estado": "confirmado",
+          "ps": [
+            "abajo",
+            "abajo",
+            "arriba",
+            "derecha",
+            "derecha",
+            "arriba",
+            "izquierda",
+            "izquierda",
+            "abajo",
+            "derecha"
+          ]
+        },
+        {
+          "id": "faded-glory",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Vieja gloria (Faded Glory)",
+          "texto": "Imagen de tele antigua a color.",
+          "fuente": "medios",
+          "reto": "Robar 50 tiendas con tu pareja.",
+          "estado": "confirmado",
+          "ps": [
+            "abajo",
+            "abajo",
+            "arriba",
+            "derecha",
+            "derecha",
+            "arriba",
+            "izquierda",
+            "izquierda",
+            "izquierda",
+            "derecha"
+          ]
+        },
+        {
+          "id": "golden-hour",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Hora dorada (Golden Hour)",
+          "texto": "Tono dorado y formato panorámico.",
+          "fuente": "medios",
+          "reto": "Pasar 4 horas de la mano con tu pareja.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "powdered-sugar",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Azúcar en polvo (Powdered Sugar)",
+          "texto": "Mundo blanco con destellos.",
+          "fuente": "medios",
+          "reto": "Escanear toda la chatarra espacial con Waink.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "pinhole",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Cámara estenopeica (Pinhole)",
+          "texto": "Filtro de cámara estenopeica.",
+          "fuente": "medios",
+          "reto": "Limpiar 25 escondites de bandas con tu pareja.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "neon-jungle",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Jungla de neón (Neon Jungle)",
+          "texto": "Luces de neón en el mundo.",
+          "fuente": "medios",
+          "reto": "Descubrir los 16 vehículos Girlypop.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "yesteryear",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Antiguo (Yesteryear)",
+          "texto": "Tele antigua en blanco y negro.",
+          "fuente": "medios",
+          "reto": "Descubrir el Ridgeway.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "videotape",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Cinta de vídeo (Videotape)",
+          "texto": "Estética de cinta VHS.",
+          "fuente": "medios",
+          "reto": "Hacer 50 actividades con tu pareja.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "dark-mirror",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Espejo oscuro (Dark Mirror)",
+          "texto": "Mundo negro y del revés.",
+          "fuente": "medios",
+          "reto": "Ganar 500.000 $ vendiendo vehículos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "migraine",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Migraña (Migraine)",
+          "texto": "Imagen borrosa y distorsionada.",
+          "fuente": "medios",
+          "reto": "Sobrevivir 6 minutos con 6 estrellas de búsqueda.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "bubblegum",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Chicle (Bubblegum)",
+          "texto": "Mundo morado y amarillo con destellos.",
+          "fuente": "medios",
+          "reto": "Encontrar las 24 cartas de los Vice City Flamingos.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "fast-forward",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Avance rápido (Fast Forward)",
+          "texto": "Desenfoque y nubes aceleradas.",
+          "fuente": "medios",
+          "reto": "Hacer 50 meditaciones.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "fisheye",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Ojo de pez (Fisheye)",
+          "texto": "Lente ojo de pez.",
+          "fuente": "medios",
+          "reto": "Pescar 100 peces.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "pixel-art",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Pixel Art",
+          "texto": "Imagen pixelada.",
+          "fuente": "medios",
+          "reto": "Ganar 250.000 $ vendiendo coleccionables.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "hellscape",
+          "grupo": "Filtros de pantalla",
+          "titulo": "Paisaje infernal (Hellscape)",
+          "texto": "Mundo rojo y naranja con calima.",
+          "fuente": "medios",
+          "reto": "Robar 100 vehículos de policía.",
+          "estado": "sin-codigo"
+        },
+        {
+          "id": "primera-persona",
+          "grupo": "Secretos",
+          "titulo": "Jugar siempre en primera persona",
+          "texto": "Es un fallo de la cámara que descubrió la comunidad, no un truco oficial.\n\n1. En los ajustes del mando, pon el cambio de cámara en el panel táctil (PS5) o en el botón Vista (Xbox).\n2. Súbete a un vehículo y saca el teléfono con Arriba.\n3. Guarda el teléfono con Círculo (o B) y pulsa varias veces el botón de cámara justo después.\n\nSi la vista se queda fija, bájate: seguirás en primera persona, aunque con fallos de animación. Para volver a la normalidad, carga una partida. Rockstar podría quitarlo en un parche.",
+          "fuente": "medios",
+          "ps": [
+            "arriba",
+            "circulo"
+          ],
+          "xbox": [
+            "arriba",
+            "b"
+          ]
+        },
+        {
+          "id": "paul-walker",
+          "grupo": "Secretos",
+          "titulo": "El coche de Paul Walker en «A todo gas»",
+          "texto": "Desde el principio del juego puedes llevarte una réplica del deportivo de 1995 que conducía Paul Walker, con su color y sus vinilos. Según Vandal, está en un garaje al este de la zona Isla Catalana: fuerza la puerta, llévatelo y regístralo en un Pay 'n' Spray por $6.750 (antes tienes que haber desbloqueado el registro de vehículos).",
+          "fuente": "medios"
+        }
+      ]
+    },
+    {
+      "id": "cronologia",
+      "titulo": "Cronología",
+      "subtitulo": "Del primer tráiler al lanzamiento",
+      "icono": "calendario",
+      "tipo": "articulo",
+      "intro": "Las fechas clave de GTA VI.",
+      "pronto": false,
+      "items": [
+        {
+          "id": "2022",
+          "titulo": "Febrero 2022",
+          "texto": "Rockstar confirma que el nuevo GTA está en desarrollo.",
+          "fuente": "medios"
+        },
+        {
+          "id": "t1",
+          "titulo": "4 de diciembre de 2023",
+          "texto": "Primer tráiler, publicado antes de lo previsto por una filtración.",
+          "fuente": "medios"
+        },
+        {
+          "id": "r1",
+          "titulo": "2 de mayo de 2025",
+          "texto": "Primer retraso: pasa al 26 de mayo de 2026.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "t2",
+          "titulo": "6 de mayo de 2025",
+          "texto": "Segundo tráiler y la web con personajes y lugares.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "r2",
+          "titulo": "6 de noviembre de 2025",
+          "texto": "Segundo retraso: pasa al 19 de noviembre de 2026.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "reservas",
+          "titulo": "25 de junio de 2026",
+          "texto": "Abren las reservas.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "extended",
+          "titulo": "27 de agosto de 2026",
+          "texto": "Estreno de «An Extended Look», unos 27 minutos de juego real en PS5.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "t3",
+          "titulo": "15 de octubre de 2026",
+          "texto": "Tráiler de lanzamiento. La banda sonora original es de Justice.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "precarga",
+          "titulo": "10 de noviembre de 2026",
+          "texto": "Empieza la precarga digital.",
+          "fuente": "oficial"
+        },
+        {
+          "id": "lanzamiento",
+          "titulo": "19 de noviembre de 2026",
+          "texto": "Lanzamiento mundial en PS5 y Xbox Series X|S.",
+          "fuente": "oficial"
+        }
+      ]
+    }
+  ],
+  "fuentes": [
+    {
+      "titulo": "Rockstar Games: GTA VI",
+      "url": "https://www.rockstargames.com/VI"
+    },
+    {
+      "titulo": "Rockstar Newswire: ya disponible",
+      "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available"
+    },
+    {
+      "titulo": "PlayStation Blog: precarga",
+      "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+    },
+    {
+      "titulo": "Xbox Wire: Xbox Cloud Gaming",
+      "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+    },
+    {
+      "titulo": "GameSpot: reseña",
+      "url": "https://www.gamespot.com/reviews/grand-theft-auto-6-review/"
+    },
+    {
+      "titulo": "Kotaku: reseña",
+      "url": "https://kotaku.com/grand-theft-auto-6-the-kotaku-review-2000757842"
+    },
+    {
+      "titulo": "Kotaku: 32 consejos sin spoilers",
+      "url": "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016"
+    },
+    {
+      "titulo": "TechRadar: lo que mostró el Extended Look",
+      "url": "https://www.techradar.com/gaming/ps5/16-new-gta-6-details-we-learned-from-the-big-extended-look-gameplay-video-captured-in-game-on-a-ps5"
+    },
+    {
+      "titulo": "VICE: novedades de jugabilidad",
+      "url": "https://www.vice.com/en/article/gta-6-new-gameplay-features-details-revealed/"
+    },
+    {
+      "titulo": "Metacritic",
+      "url": "https://www.metacritic.com/game/grand-theft-auto-vi/"
+    },
+    {
+      "titulo": "OpenCritic",
+      "url": "https://opencritic.com/game/15398/grand-theft-auto-vi"
+    },
+    {
+      "titulo": "Infobae: precios en Latinoamérica",
+      "url": "https://www.infobae.com/tecno/2026/11/18/cuanto-vale-gta-vi-disponibilidad-precios-y-como-descargar-la-entrega-de-rockstar-games/"
+    },
+    {
+      "titulo": "Trome: GTA 6 en Perú",
+      "url": "https://trome.com/actualidad/internacional/gta-6-en-peru-hora-de-lanzamiento-precio-y-como-descargarlo-en-consolas-psp5-xbox-grand-theft-auto-vi-video-noticia/"
+    },
+    {
+      "titulo": "PC Gamer: guía de GTA VI",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/"
+    },
+    {
+      "titulo": "PowerPyx: todos los trucos",
+      "url": "https://www.powerpyx.com/gta-6-all-cheats/"
+    },
+    {
+      "titulo": "Vandal: trucos de GTA VI",
+      "url": "https://vandal.elespanol.com/guias/guia-grand-theft-auto-vi-trucos-consejos-y-secretos/trucos"
+    },
+    {
+      "titulo": "GAMES.GG: trucos y desbloqueos",
+      "url": "https://games.gg/es/grand-theft-auto-vi/guides/grand-theft-auto-6-17-trucos-comandos-y-desbloqueables/"
+    },
+    {
+      "titulo": "Red Bull: misiones y capítulos",
+      "url": "https://www.redbull.com/cl-es/gta-6-lista-completa-de-misiones-y-guia-de-capitulos"
+    },
+    {
+      "titulo": "Eurogamer: guía y walkthrough de GTA VI",
+      "url": "https://www.eurogamer.es/gta-6-guia-walkthrough-lista-grand-theft-auto-vi"
+    }
+  ],
+  "portada": "imagenes/portada.jpg",
+  "creditoImagenes": "Imágenes: Rockstar Games",
+  "mapaOficial": {
+    "imagen": "imagenes/mapa-oficial.jpg",
+    "miniatura": "imagenes/mapa-oficial-mini.jpg",
+    "proporcion": 0.7305
+  }
+}
