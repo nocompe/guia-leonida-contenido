@@ -2,6 +2,7 @@
 
 Lo que lee la app sin publicar otra versión:
 
+- `contenido.json` (español), `contenido_en.json` (inglés) y `contenido_pt.json` (portugués): toda la guía, un archivo por idioma con los mismos ids. Al cambiar algo, cámbialo en los tres y sube `version` en todos.
 - `contenido.json`: toda la guía. Para actualizarla, edita este archivo, **sube `version` en 1** y súbelo. La app lo descarga sola (y al tirar hacia abajo en Inicio). Si el JSON está roto o su versión es menor, la app lo ignora y sigue con el que tiene.
 - `privacidad.html`: política de privacidad (Google Play pide una URL pública).
 
