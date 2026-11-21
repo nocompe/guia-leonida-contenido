@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "actualizado": "2026-11-21",
   "lanzamiento": {
     "etiqueta": "Ya disponible",
@@ -13,6 +13,10 @@
     ]
   },
   "novedades": [
+    {
+      "fecha": "2026-11-21",
+      "texto": "Nuevo: mapa interactivo con más de 100 lugares del mapa oficial y marcadores de la comunidad."
+    },
     {
       "fecha": "2026-11-21",
       "texto": "Nuevo: el mapa oficial de Leonida, con zoom para ver cada zona."
@@ -2678,5 +2682,1047 @@
     "imagen": "imagenes/mapa-oficial.jpg",
     "miniatura": "imagenes/mapa-oficial-mini.jpg",
     "proporcion": 0.7305
-  }
+  },
+  "lugares": [
+    {
+      "id": "vice-city",
+      "nombre": "Vice City",
+      "categoria": "ciudad",
+      "x": 0.668,
+      "y": 0.517,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "port-gellhorn",
+      "nombre": "Port Gellhorn",
+      "categoria": "ciudad",
+      "x": 0.31,
+      "y": 0.36,
+      "region": "port-gellhorn",
+      "fuente": "oficial"
+    },
+    {
+      "id": "ambrosia",
+      "nombre": "Ambrosia",
+      "categoria": "ciudad",
+      "x": 0.555,
+      "y": 0.358,
+      "region": "ambrosia",
+      "fuente": "oficial"
+    },
+    {
+      "id": "key-lento",
+      "nombre": "Key Lento",
+      "categoria": "ciudad",
+      "x": 0.555,
+      "y": 0.833,
+      "region": "leonida-keys",
+      "texto": "El pueblo principal de los Cayos.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "hamlet",
+      "nombre": "Hamlet",
+      "categoria": "ciudad",
+      "x": 0.565,
+      "y": 0.686,
+      "region": "grassrivers",
+      "fuente": "oficial"
+    },
+    {
+      "id": "watson-bay",
+      "nombre": "Watson Bay",
+      "categoria": "ciudad",
+      "x": 0.42,
+      "y": 0.709,
+      "region": "grassrivers",
+      "texto": "Aquí está el Paradise Garage de la edición Ultimate.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "capri",
+      "nombre": "Capri",
+      "categoria": "ciudad",
+      "x": 0.285,
+      "y": 0.527,
+      "fuente": "oficial"
+    },
+    {
+      "id": "draper-island",
+      "nombre": "Draper Island",
+      "categoria": "ciudad",
+      "x": 0.23,
+      "y": 0.298,
+      "region": "port-gellhorn",
+      "fuente": "oficial"
+    },
+    {
+      "id": "bonanza",
+      "nombre": "Bonanza",
+      "categoria": "ciudad",
+      "x": 0.462,
+      "y": 0.141,
+      "region": "mount-kalaga",
+      "fuente": "oficial"
+    },
+    {
+      "id": "moreau",
+      "nombre": "Moreau",
+      "categoria": "ciudad",
+      "x": 0.517,
+      "y": 0.166,
+      "region": "mount-kalaga",
+      "fuente": "oficial"
+    },
+    {
+      "id": "grayson",
+      "nombre": "Grayson",
+      "categoria": "ciudad",
+      "x": 0.38,
+      "y": 0.218,
+      "region": "mount-kalaga",
+      "fuente": "oficial"
+    },
+    {
+      "id": "millport",
+      "nombre": "Millport",
+      "categoria": "ciudad",
+      "x": 0.66,
+      "y": 0.232,
+      "fuente": "oficial"
+    },
+    {
+      "id": "waning-sands",
+      "nombre": "Waning Sands",
+      "categoria": "ciudad",
+      "x": 0.716,
+      "y": 0.32,
+      "fuente": "oficial"
+    },
+    {
+      "id": "frogswater",
+      "nombre": "Frogswater",
+      "categoria": "ciudad",
+      "x": 0.444,
+      "y": 0.347,
+      "region": "ambrosia",
+      "fuente": "oficial"
+    },
+    {
+      "id": "belville",
+      "nombre": "Belville",
+      "categoria": "ciudad",
+      "x": 0.64,
+      "y": 0.393,
+      "fuente": "oficial"
+    },
+    {
+      "id": "cellerica",
+      "nombre": "Cellerica",
+      "categoria": "ciudad",
+      "x": 0.631,
+      "y": 0.408,
+      "fuente": "oficial"
+    },
+    {
+      "id": "emerald-springs",
+      "nombre": "Emerald Springs",
+      "categoria": "ciudad",
+      "x": 0.451,
+      "y": 0.42,
+      "fuente": "oficial"
+    },
+    {
+      "id": "gellhorn",
+      "nombre": "Gellhorn",
+      "categoria": "ciudad",
+      "x": 0.354,
+      "y": 0.443,
+      "region": "port-gellhorn",
+      "fuente": "oficial"
+    },
+    {
+      "id": "big-pine",
+      "nombre": "Big Pine",
+      "categoria": "ciudad",
+      "x": 0.383,
+      "y": 0.621,
+      "fuente": "oficial"
+    },
+    {
+      "id": "southwind",
+      "nombre": "Southwind",
+      "categoria": "ciudad",
+      "x": 0.315,
+      "y": 0.852,
+      "region": "leonida-keys",
+      "fuente": "oficial"
+    },
+    {
+      "id": "pelican-valley",
+      "nombre": "Pelican Valley",
+      "categoria": "ciudad",
+      "x": 0.524,
+      "y": 0.734,
+      "region": "grassrivers",
+      "fuente": "oficial"
+    },
+    {
+      "id": "ocean-beach",
+      "nombre": "Ocean Beach",
+      "categoria": "barrio",
+      "x": 0.836,
+      "y": 0.522,
+      "region": "vice-city",
+      "texto": "Hoteles art déco en tonos pastel y arena blanca.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "little-cuba",
+      "nombre": "Little Cuba",
+      "categoria": "barrio",
+      "x": 0.64,
+      "y": 0.528,
+      "region": "vice-city",
+      "texto": "Barrio conocido por sus panaderías.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "downtown",
+      "nombre": "Downtown",
+      "categoria": "barrio",
+      "x": 0.693,
+      "y": 0.53,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "stockyard",
+      "nombre": "Stockyard",
+      "categoria": "barrio",
+      "x": 0.7,
+      "y": 0.455,
+      "region": "vice-city",
+      "texto": "Moda urbana y tatuajes: Stock 305 y Electric Fang Tattoo.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "southside",
+      "nombre": "Southside",
+      "categoria": "barrio",
+      "x": 0.611,
+      "y": 0.648,
+      "region": "vice-city",
+      "texto": "Zona de la pandilla PTT Youngin$.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "washington-beach",
+      "nombre": "Washington Beach",
+      "categoria": "barrio",
+      "x": 0.854,
+      "y": 0.446,
+      "region": "vice-city",
+      "texto": "Aquí está amarrada la lancha Squalo de la edición Ultimate.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "washington-island",
+      "nombre": "Washington Island",
+      "categoria": "barrio",
+      "x": 0.817,
+      "y": 0.428,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "vice-beach",
+      "nombre": "Vice Beach",
+      "categoria": "barrio",
+      "x": 0.853,
+      "y": 0.489,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "decor-district",
+      "nombre": "Decor District",
+      "categoria": "barrio",
+      "x": 0.7,
+      "y": 0.433,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "bayside",
+      "nombre": "Bayside",
+      "categoria": "barrio",
+      "x": 0.712,
+      "y": 0.471,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "la-perle",
+      "nombre": "La Perle",
+      "categoria": "barrio",
+      "x": 0.68,
+      "y": 0.463,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "crosstown",
+      "nombre": "Crosstown",
+      "categoria": "barrio",
+      "x": 0.69,
+      "y": 0.497,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "rockridge",
+      "nombre": "Rockridge",
+      "categoria": "barrio",
+      "x": 0.64,
+      "y": 0.498,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "balsero",
+      "nombre": "Balsero",
+      "categoria": "barrio",
+      "x": 0.58,
+      "y": 0.5,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "salton",
+      "nombre": "Salton",
+      "categoria": "barrio",
+      "x": 0.6,
+      "y": 0.538,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "tequesta",
+      "nombre": "Tequesta",
+      "categoria": "barrio",
+      "x": 0.675,
+      "y": 0.592,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "tequesta-retreat",
+      "nombre": "Tequesta Retreat",
+      "categoria": "barrio",
+      "x": 0.722,
+      "y": 0.59,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "bluegrass",
+      "nombre": "Bluegrass",
+      "categoria": "barrio",
+      "x": 0.565,
+      "y": 0.631,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "south-vice-dale",
+      "nombre": "South Vice-Dale",
+      "categoria": "barrio",
+      "x": 0.614,
+      "y": 0.684,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "peacock-estates",
+      "nombre": "Peacock Estates",
+      "categoria": "barrio",
+      "x": 0.663,
+      "y": 0.655,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "penmarch-isle",
+      "nombre": "Penmarch Isle",
+      "categoria": "barrio",
+      "x": 0.773,
+      "y": 0.44,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "oldby-island",
+      "nombre": "Oldby Island",
+      "categoria": "barrio",
+      "x": 0.817,
+      "y": 0.457,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "rialto-islands",
+      "nombre": "Rialto Islands",
+      "categoria": "barrio",
+      "x": 0.752,
+      "y": 0.468,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "casanova-island",
+      "nombre": "Casanova Island",
+      "categoria": "barrio",
+      "x": 0.79,
+      "y": 0.472,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "catalan-island",
+      "nombre": "Catalan Island",
+      "categoria": "barrio",
+      "x": 0.727,
+      "y": 0.488,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "vespucci-island",
+      "nombre": "Vespucci Island",
+      "categoria": "barrio",
+      "x": 0.773,
+      "y": 0.491,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "salton-memorial-island",
+      "nombre": "Salton Memorial Island",
+      "categoria": "barrio",
+      "x": 0.775,
+      "y": 0.503,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "starfish-island",
+      "nombre": "Starfish Island",
+      "categoria": "barrio",
+      "x": 0.776,
+      "y": 0.513,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "waxman-island",
+      "nombre": "Waxman Island",
+      "categoria": "barrio",
+      "x": 0.77,
+      "y": 0.533,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "dalton-island",
+      "nombre": "Dalton Island",
+      "categoria": "barrio",
+      "x": 0.856,
+      "y": 0.595,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "gloriana-key",
+      "nombre": "Gloriana Key",
+      "categoria": "barrio",
+      "x": 0.79,
+      "y": 0.625,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "catalan-key",
+      "nombre": "Catalan Key",
+      "categoria": "barrio",
+      "x": 0.718,
+      "y": 0.642,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "sabal-palms",
+      "nombre": "Sabal Palms",
+      "categoria": "barrio",
+      "x": 0.695,
+      "y": 0.318,
+      "fuente": "oficial"
+    },
+    {
+      "id": "corsair-key",
+      "nombre": "Corsair Key",
+      "categoria": "barrio",
+      "x": 0.678,
+      "y": 0.743,
+      "fuente": "oficial"
+    },
+    {
+      "id": "mount-kalaga-national-park",
+      "nombre": "Mount Kalaga National Park",
+      "categoria": "naturaleza",
+      "x": 0.488,
+      "y": 0.226,
+      "region": "mount-kalaga",
+      "fuente": "oficial"
+    },
+    {
+      "id": "lake-leonida",
+      "nombre": "Lake Leonida",
+      "categoria": "naturaleza",
+      "x": 0.594,
+      "y": 0.311,
+      "region": "ambrosia",
+      "texto": "Junto al lago está el taller One-Eyed Willie's.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "grassrivers",
+      "nombre": "Grassrivers",
+      "categoria": "naturaleza",
+      "x": 0.443,
+      "y": 0.663,
+      "region": "grassrivers",
+      "fuente": "oficial"
+    },
+    {
+      "id": "buckskin-swamp",
+      "nombre": "Buckskin Swamp",
+      "categoria": "naturaleza",
+      "x": 0.465,
+      "y": 0.463,
+      "fuente": "oficial"
+    },
+    {
+      "id": "manifest-canyon",
+      "nombre": "Manifest Canyon",
+      "categoria": "naturaleza",
+      "x": 0.389,
+      "y": 0.293,
+      "fuente": "oficial"
+    },
+    {
+      "id": "richard-barebone-state-park",
+      "nombre": "Richard Barebone State Park",
+      "categoria": "naturaleza",
+      "x": 0.71,
+      "y": 0.26,
+      "fuente": "oficial"
+    },
+    {
+      "id": "lake-tallaloko",
+      "nombre": "Lake Tallaloko",
+      "categoria": "naturaleza",
+      "x": 0.626,
+      "y": 0.204,
+      "region": "mount-kalaga",
+      "fuente": "oficial"
+    },
+    {
+      "id": "three-toe-lake",
+      "nombre": "Three Toe Lake",
+      "categoria": "naturaleza",
+      "x": 0.477,
+      "y": 0.554,
+      "fuente": "oficial"
+    },
+    {
+      "id": "cottonmouth-lake",
+      "nombre": "Cottonmouth Lake",
+      "categoria": "naturaleza",
+      "x": 0.493,
+      "y": 0.766,
+      "region": "leonida-keys",
+      "fuente": "oficial"
+    },
+    {
+      "id": "tortoise-lake",
+      "nombre": "Tortoise Lake",
+      "categoria": "naturaleza",
+      "x": 0.31,
+      "y": 0.52,
+      "fuente": "oficial"
+    },
+    {
+      "id": "gambit-bay",
+      "nombre": "Gambit Bay",
+      "categoria": "naturaleza",
+      "x": 0.556,
+      "y": 0.787,
+      "region": "leonida-keys",
+      "texto": "Zona de pesca.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "vinewood-beach",
+      "nombre": "Vinewood Beach",
+      "categoria": "naturaleza",
+      "x": 0.766,
+      "y": 0.333,
+      "fuente": "oficial"
+    },
+    {
+      "id": "hyde-island",
+      "nombre": "Hyde Island",
+      "categoria": "naturaleza",
+      "x": 0.592,
+      "y": 0.113,
+      "fuente": "oficial"
+    },
+    {
+      "id": "saint-attaway-islands",
+      "nombre": "Saint Attaway Islands",
+      "categoria": "naturaleza",
+      "x": 0.54,
+      "y": 0.128,
+      "fuente": "oficial"
+    },
+    {
+      "id": "frampton-islands",
+      "nombre": "Frampton Islands",
+      "categoria": "naturaleza",
+      "x": 0.64,
+      "y": 0.145,
+      "fuente": "oficial"
+    },
+    {
+      "id": "featherstone-islands",
+      "nombre": "Featherstone Islands",
+      "categoria": "naturaleza",
+      "x": 0.37,
+      "y": 0.157,
+      "fuente": "oficial"
+    },
+    {
+      "id": "zephyr-islands",
+      "nombre": "Zephyr Islands",
+      "categoria": "naturaleza",
+      "x": 0.24,
+      "y": 0.252,
+      "fuente": "oficial"
+    },
+    {
+      "id": "little-hardin-island",
+      "nombre": "Little Hardin Island",
+      "categoria": "naturaleza",
+      "x": 0.725,
+      "y": 0.248,
+      "fuente": "oficial"
+    },
+    {
+      "id": "wild-hog-point",
+      "nombre": "Wild Hog Point",
+      "categoria": "naturaleza",
+      "x": 0.235,
+      "y": 0.389,
+      "region": "port-gellhorn",
+      "fuente": "oficial"
+    },
+    {
+      "id": "sandbars",
+      "nombre": "Sandbars",
+      "categoria": "naturaleza",
+      "x": 0.135,
+      "y": 0.403,
+      "fuente": "oficial"
+    },
+    {
+      "id": "crude-islands",
+      "nombre": "Crude Islands",
+      "categoria": "naturaleza",
+      "x": 0.18,
+      "y": 0.433,
+      "fuente": "oficial"
+    },
+    {
+      "id": "belpoint",
+      "nombre": "Belpoint",
+      "categoria": "naturaleza",
+      "x": 0.175,
+      "y": 0.548,
+      "fuente": "oficial"
+    },
+    {
+      "id": "bobcat-key",
+      "nombre": "Bobcat Key",
+      "categoria": "naturaleza",
+      "x": 0.33,
+      "y": 0.64,
+      "fuente": "oficial"
+    },
+    {
+      "id": "shoeless-keys",
+      "nombre": "Shoeless Keys",
+      "categoria": "naturaleza",
+      "x": 0.597,
+      "y": 0.759,
+      "region": "leonida-keys",
+      "fuente": "oficial"
+    },
+    {
+      "id": "permit-keys",
+      "nombre": "Permit Keys",
+      "categoria": "naturaleza",
+      "x": 0.36,
+      "y": 0.844,
+      "region": "leonida-keys",
+      "fuente": "oficial"
+    },
+    {
+      "id": "maroon-key",
+      "nombre": "Maroon Key",
+      "categoria": "naturaleza",
+      "x": 0.454,
+      "y": 0.861,
+      "region": "leonida-keys",
+      "fuente": "oficial"
+    },
+    {
+      "id": "abismo-key",
+      "nombre": "Abismo Key",
+      "categoria": "naturaleza",
+      "x": 0.442,
+      "y": 0.893,
+      "region": "leonida-keys",
+      "fuente": "oficial"
+    },
+    {
+      "id": "riquezas-keys",
+      "nombre": "Riquezas Keys",
+      "categoria": "naturaleza",
+      "x": 0.208,
+      "y": 0.83,
+      "region": "leonida-keys",
+      "fuente": "oficial"
+    },
+    {
+      "id": "goose-key",
+      "nombre": "Goose Key",
+      "categoria": "naturaleza",
+      "x": 0.265,
+      "y": 0.847,
+      "region": "leonida-keys",
+      "fuente": "oficial"
+    },
+    {
+      "id": "allied-crystal",
+      "nombre": "Allied Crystal",
+      "categoria": "lugar",
+      "x": 0.548,
+      "y": 0.375,
+      "region": "ambrosia",
+      "texto": "La refinería de azúcar que da trabajo a Ambrosia.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "leonida-state-prison",
+      "nombre": "Leonida State Prison",
+      "categoria": "lugar",
+      "x": 0.4,
+      "y": 0.457,
+      "texto": "La prisión del estado, en el condado de Kelly.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "hamlet-correctional-institution",
+      "nombre": "Hamlet Correctional Institution",
+      "categoria": "lugar",
+      "x": 0.553,
+      "y": 0.668,
+      "region": "grassrivers",
+      "fuente": "oficial"
+    },
+    {
+      "id": "macalister-gold-mine",
+      "nombre": "MacAlister Gold Mine",
+      "categoria": "lugar",
+      "x": 0.468,
+      "y": 0.167,
+      "region": "mount-kalaga",
+      "fuente": "oficial"
+    },
+    {
+      "id": "tallaloko-lakeside-resort",
+      "nombre": "Tallaloko Lakeside Resort",
+      "categoria": "lugar",
+      "x": 0.597,
+      "y": 0.183,
+      "region": "mount-kalaga",
+      "fuente": "oficial"
+    },
+    {
+      "id": "ambrosia-rodeo-association",
+      "nombre": "Ambrosia Rodeo Association",
+      "categoria": "lugar",
+      "x": 0.537,
+      "y": 0.329,
+      "region": "ambrosia",
+      "fuente": "oficial"
+    },
+    {
+      "id": "howe-dairy",
+      "nombre": "Howe Dairy",
+      "categoria": "lugar",
+      "x": 0.437,
+      "y": 0.376,
+      "fuente": "oficial"
+    },
+    {
+      "id": "tucker-s-citrus-farms",
+      "nombre": "Tucker's Citrus Farms",
+      "categoria": "lugar",
+      "x": 0.475,
+      "y": 0.382,
+      "fuente": "oficial"
+    },
+    {
+      "id": "chateau-cellerica",
+      "nombre": "Chateau Cellerica",
+      "categoria": "lugar",
+      "x": 0.623,
+      "y": 0.38,
+      "fuente": "oficial"
+    },
+    {
+      "id": "breakwater-quarry",
+      "nombre": "Breakwater Quarry",
+      "categoria": "lugar",
+      "x": 0.43,
+      "y": 0.583,
+      "fuente": "oficial"
+    },
+    {
+      "id": "sahara-network-data-center",
+      "nombre": "Sahara Network Data Center",
+      "categoria": "lugar",
+      "x": 0.47,
+      "y": 0.619,
+      "fuente": "oficial"
+    },
+    {
+      "id": "paradise-rv-park",
+      "nombre": "Paradise RV Park",
+      "categoria": "lugar",
+      "x": 0.471,
+      "y": 0.68,
+      "region": "grassrivers",
+      "fuente": "oficial"
+    },
+    {
+      "id": "t-h-power-station",
+      "nombre": "T.H. Power Station",
+      "categoria": "lugar",
+      "x": 0.627,
+      "y": 0.712,
+      "fuente": "oficial"
+    },
+    {
+      "id": "evergreen-mall-of-waning-sands",
+      "nombre": "Evergreen Mall of Waning Sands",
+      "categoria": "lugar",
+      "x": 0.712,
+      "y": 0.338,
+      "fuente": "oficial"
+    },
+    {
+      "id": "tisha-wocka-flea-market",
+      "nombre": "Tisha-Wocka Flea Market",
+      "categoria": "lugar",
+      "x": 0.547,
+      "y": 0.497,
+      "region": "vice-city",
+      "texto": "El mercadillo de las marcas pirata.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "vice-city-oceanarium",
+      "nombre": "Vice City Oceanarium",
+      "categoria": "lugar",
+      "x": 0.718,
+      "y": 0.613,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "courtland-park",
+      "nombre": "Courtland Park",
+      "categoria": "lugar",
+      "x": 0.7,
+      "y": 0.627,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "sahara-arena",
+      "nombre": "Sahara Arena",
+      "categoria": "deporte",
+      "x": 0.715,
+      "y": 0.512,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "vice-city-international-airport-vcia",
+      "nombre": "Vice City International Airport (VCIA)",
+      "categoria": "transporte",
+      "x": 0.575,
+      "y": 0.57,
+      "region": "vice-city",
+      "texto": "El aeropuerto internacional de Vice City.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "port-vice-city",
+      "nombre": "Port Vice City",
+      "categoria": "transporte",
+      "x": 0.8,
+      "y": 0.556,
+      "region": "vice-city",
+      "texto": "La «capital mundial de los cruceros».",
+      "fuente": "oficial"
+    },
+    {
+      "id": "mile-zero-air-station",
+      "nombre": "Mile Zero Air Station",
+      "categoria": "transporte",
+      "x": 0.262,
+      "y": 0.869,
+      "region": "leonida-keys",
+      "texto": "Base aérea militar en el extremo sur.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "henry-j-edwards-airport",
+      "nombre": "Henry J Edwards Airport",
+      "categoria": "transporte",
+      "x": 0.357,
+      "y": 0.654,
+      "fuente": "oficial"
+    },
+    {
+      "id": "wild-hog-airfield",
+      "nombre": "Wild Hog Airfield",
+      "categoria": "transporte",
+      "x": 0.25,
+      "y": 0.372,
+      "region": "port-gellhorn",
+      "fuente": "oficial"
+    },
+    {
+      "id": "gellhorn-raceway",
+      "nombre": "Gellhorn Raceway",
+      "categoria": "deporte",
+      "x": 0.28,
+      "y": 0.435,
+      "region": "port-gellhorn",
+      "texto": "Uno de los circuitos del reto del truco Reparar vehículo.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "thrillbilly-mud-club",
+      "nombre": "Thrillbilly Mud Club",
+      "categoria": "deporte",
+      "x": 0.48,
+      "y": 0.309,
+      "region": "ambrosia",
+      "texto": "Uno de los circuitos del reto del truco Reparar vehículo.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "boone-speedway",
+      "nombre": "Boone Speedway",
+      "categoria": "deporte",
+      "x": 0.553,
+      "y": 0.712,
+      "region": "grassrivers",
+      "texto": "Uno de los circuitos del reto del truco Reparar vehículo.",
+      "fuente": "oficial"
+    },
+    {
+      "id": "ambrosia-raceway-park",
+      "nombre": "Ambrosia Raceway Park",
+      "categoria": "deporte",
+      "x": 0.54,
+      "y": 0.304,
+      "region": "ambrosia",
+      "fuente": "oficial"
+    },
+    {
+      "id": "fleeca-field",
+      "nombre": "Fleeca Field",
+      "categoria": "deporte",
+      "x": 0.623,
+      "y": 0.489,
+      "region": "vice-city",
+      "fuente": "oficial"
+    },
+    {
+      "id": "leaf-links",
+      "nombre": "Leaf Links",
+      "categoria": "deporte",
+      "x": 0.745,
+      "y": 0.415,
+      "fuente": "oficial"
+    },
+    {
+      "id": "lummox-county",
+      "nombre": "Lummox County",
+      "categoria": "condado",
+      "x": 0.49,
+      "y": 0.2,
+      "fuente": "oficial"
+    },
+    {
+      "id": "kelly-county",
+      "nombre": "Kelly County",
+      "categoria": "condado",
+      "x": 0.42,
+      "y": 0.39,
+      "fuente": "oficial"
+    },
+    {
+      "id": "leonard-county",
+      "nombre": "Leonard County",
+      "categoria": "condado",
+      "x": 0.65,
+      "y": 0.355,
+      "fuente": "oficial"
+    },
+    {
+      "id": "vice-dale-county",
+      "nombre": "Vice-Dale County",
+      "categoria": "condado",
+      "x": 0.7,
+      "y": 0.575,
+      "fuente": "oficial"
+    },
+    {
+      "id": "mariana-county",
+      "nombre": "Mariana County",
+      "categoria": "condado",
+      "x": 0.41,
+      "y": 0.731,
+      "fuente": "oficial"
+    }
+  ]
 }
