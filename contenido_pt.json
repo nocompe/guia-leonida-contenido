@@ -23,7 +23,7 @@
     },
     {
       "fecha": "2026-11-21",
-      "texto": "Missões ampliadas com a Eurogamer: 96 missões com o objetivo e com quem você joga cada uma, mais as secundárias «Estranhos e malucos» e novas dicas."
+      "texto": "Missões ampliadas com a Eurogamer: 96 missões com o objetivo e com quem você joga cada uma, mais as secundárias “Estranhos e malucos” e novas dicas."
     },
     {
       "fecha": "2026-11-21",
@@ -70,7 +70,7 @@
         "Ocean Beach: hotéis art déco em tons pastel e areia branca.",
         "Little Cuba: bairro conhecido pelas padarias.",
         "Feirinha Tisha-Wocka: o lugar das marcas piratas.",
-        "Porto de Vice City (VC Port): a «capital mundial dos cruzeiros».",
+        "Porto de Vice City (VC Port): a “capital mundial dos cruzeiros”.",
         "Stockyard: moda urbana e tatuagens; lá ficam a Stock 305 e o Electric Fang Tattoo.",
         "Southside: área da gangue PTT Youngin$.",
         "Washington Beach: onde fica atracada a lancha Squalo da edição Ultimate.",
@@ -685,7 +685,7 @@
       "subtitulo": "O que muda em relação ao GTA V",
       "icono": "novedades",
       "tipo": "articulo",
-      "intro": "A Rockstar não publicou uma lista oficial: isto vem do vídeo «An Extended Look» e das análises.",
+      "intro": "A Rockstar não publicou uma lista oficial: isto vem do vídeo “An Extended Look” e das análises.",
       "pronto": false,
       "items": [
         {
@@ -696,8 +696,8 @@
         },
         {
           "id": "policia",
-          "titulo": "Polícia de 6 estrelas e «Heat»",
-          "texto": "Agora há até 6 estrelas de procurado, e nem todo crime dá estrelas: alguém precisa ver você ou denunciar. A polícia lembra sua roupa, sua arma e seu carro, e a área do crime fica «quente».\n\nPara despistar, troque de roupa ou de carro, destrua as câmeras ou separe o casal. A polícia não aparece mais no minimapa.",
+          "titulo": "Polícia de 6 estrelas e “Heat”",
+          "texto": "Agora há até 6 estrelas de procurado, e nem todo crime dá estrelas: alguém precisa ver você ou denunciar. A polícia lembra sua roupa, sua arma e seu carro, e a área do crime fica “quente”.\n\nPara despistar, troque de roupa ou de carro, destrua as câmeras ou separe o casal. A polícia não aparece mais no minimapa.",
           "fuente": "medios"
         },
         {
@@ -828,7 +828,7 @@
         {
           "id": "dudas",
           "titulo": "Nomes em dúvida",
-          "texto": "Alguns guias chamam a Duke 1922 de «Duke 1992» e a PD-90 de «ADB PD-80». Vamos corrigir quando houver confirmação.",
+          "texto": "Alguns guias chamam a Duke 1922 de “Duke 1992” e a PD-90 de “ADB PD-80”. Vamos corrigir quando houver confirmação.",
           "fuente": "rumor"
         }
       ]
@@ -881,7 +881,7 @@
         {
           "id": "robo-autos",
           "titulo": "Como roubar carros",
-          "texto": "Há um minigame com a barra «slim jim» e outro com clonador de chaves para os carros modernos. Alguns têm GPS.",
+          "texto": "Há um minigame com a barra “slim jim” e outro com clonador de chaves para os carros modernos. Alguns têm GPS.",
           "fuente": "medios"
         }
       ]
@@ -903,8 +903,8 @@
         },
         {
           "id": "negocio",
-          "titulo": "O «negócio» deles",
-          "texto": "No vídeo «An Extended Look», o casal aceita encomendas de vários clientes: roubos, escoltas e entregas.",
+          "titulo": "O “negócio” deles",
+          "texto": "No vídeo “An Extended Look”, o casal aceita encomendas de vários clientes: roubos, escoltas e entregas.",
           "fuente": "medios"
         },
         {
@@ -977,7 +977,7 @@
       "subtitulo": "96 missões · 5 capítulos",
       "icono": "misiones",
       "tipo": "checklist",
-      "intro": "Marque as que você já terminou: seu progresso fica salvo no celular. Os nomes foram traduzidos da versão em espanhol publicada pela Eurogamer; outros sites contam 91 porque juntam algumas etapas. Atenção: os nomes adiantam parte da história. No final estão as secundárias «Estranhos e malucos».",
+      "intro": "Marque as que você já terminou: seu progresso fica salvo no celular. Os nomes foram traduzidos da versão em espanhol publicada pela Eurogamer; outros sites contam 91 porque juntam algumas etapas. Atenção: os nomes adiantam parte da história. No final estão as secundárias “Estranhos e malucos”.",
       "pronto": false,
       "items": [
         {
@@ -1677,7 +1677,7 @@
       "subtitulo": "61 cheats · 16 confirmados",
       "icono": "trucos",
       "tipo": "trucos",
-      "intro": "Nomes em português; entre parênteses, o nome em inglês usado na maioria dos guias. «Confirmado»: pelo menos dois sites dão o mesmo código. Vamos adicionando os que faltam.",
+      "intro": "Nomes em português; entre parênteses, o nome em inglês usado na maioria dos guias. “Confirmado”: pelo menos dois sites dão o mesmo código. Vamos adicionando os que faltam.",
       "pronto": false,
       "items": [
         {
@@ -1785,7 +1785,7 @@
           "id": "raise-heat-level",
           "grupo": "Jogador",
           "titulo": "Aumentar o nível de alerta (Raise Heat Level)",
-          "texto": "Aumenta seu nível de «calor» em todo o mapa.",
+          "texto": "Aumenta seu nível de “calor” em todo o mapa.",
           "fuente": "medios",
           "reto": "Despistar 25 vezes uma perseguição de 3 estrelas.",
           "estado": "confirmado",
@@ -2189,7 +2189,7 @@
           "titulo": "Flamingo inflável (Inflatable Flamingo)",
           "texto": "Faz este veículo aparecer.",
           "fuente": "medios",
-          "reto": "Destruir 50 «flamingos de cocaína».",
+          "reto": "Destruir 50 “flamingos de cocaína”.",
           "estado": "sin-codigo"
         },
         {
@@ -2516,7 +2516,7 @@
         {
           "id": "paul-walker",
           "grupo": "Segredos",
-          "titulo": "O carro do Paul Walker em «Velozes e Furiosos»",
+          "titulo": "O carro do Paul Walker em “Velozes e Furiosos”",
           "texto": "Desde o começo do jogo, você pode pegar uma réplica do esportivo de 1995 que Paul Walker dirigia, com a mesma cor e os mesmos adesivos. Segundo a Vandal, ele fica numa garagem a leste da área Isla Catalana: force a porta, leve o carro e registre-o numa Pay 'n' Spray por $6.750 (antes, você precisa ter desbloqueado o registro de veículos).",
           "fuente": "medios"
         }
@@ -2570,7 +2570,7 @@
         {
           "id": "extended",
           "titulo": "27 de agosto de 2026",
-          "texto": "Estreia de «An Extended Look», cerca de 27 minutos de gameplay real no PS5.",
+          "texto": "Estreia de “An Extended Look”, cerca de 27 minutos de gameplay real no PS5.",
           "fuente": "oficial"
         },
         {

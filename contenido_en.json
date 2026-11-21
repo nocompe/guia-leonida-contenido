@@ -23,7 +23,7 @@
     },
     {
       "fecha": "2026-11-21",
-      "texto": "Missions expanded with Eurogamer: 96 missions with their objective and who you play them with, plus the «Strangers and Freaks» side missions and new tips."
+      "texto": "Missions expanded with Eurogamer: 96 missions with their objective and who you play them with, plus the “Strangers and Freaks” side missions and new tips."
     },
     {
       "fecha": "2026-11-21",
@@ -70,7 +70,7 @@
         "Ocean Beach: pastel art deco hotels and white sand.",
         "Little Cuba: a neighborhood known for its bakeries.",
         "Tisha-Wocka flea market: the place for knockoff brands.",
-        "Port of Vice City (VC Port): the «cruise capital of the world».",
+        "Port of Vice City (VC Port): the “cruise capital of the world”.",
         "Stockyard: streetwear and tattoos; home to Stock 305 and Electric Fang Tattoo.",
         "Southside: turf of the PTT Youngin$ gang.",
         "Washington Beach: where the Ultimate Edition's Squalo speedboat is docked.",
@@ -685,7 +685,7 @@
       "subtitulo": "What's different from GTA V",
       "icono": "novedades",
       "tipo": "articulo",
-      "intro": "Rockstar didn't publish an official list: this comes from its «An Extended Look» video and from reviews.",
+      "intro": "Rockstar didn't publish an official list: this comes from its “An Extended Look” video and from reviews.",
       "pronto": false,
       "items": [
         {
@@ -696,8 +696,8 @@
         },
         {
           "id": "policia",
-          "titulo": "6-star police and «Heat»",
-          "texto": "There are now up to 6 wanted stars, and not every crime gives you stars: someone has to see you or report you. The police remember your clothes, your weapon and your car, and the crime area stays «hot».\n\nTo shake them off, change clothes or cars, destroy the cameras or split up from your partner. The police no longer appear on the minimap.",
+          "titulo": "6-star police and “Heat”",
+          "texto": "There are now up to 6 wanted stars, and not every crime gives you stars: someone has to see you or report you. The police remember your clothes, your weapon and your car, and the crime area stays “hot”.\n\nTo shake them off, change clothes or cars, destroy the cameras or split up from your partner. The police no longer appear on the minimap.",
           "fuente": "medios"
         },
         {
@@ -828,7 +828,7 @@
         {
           "id": "dudas",
           "titulo": "Disputed names",
-          "texto": "Some guides call the Duke 1922 the «Duke 1992» and the PD-90 the «ADB PD-80». We'll fix it once it's confirmed.",
+          "texto": "Some guides call the Duke 1922 the “Duke 1992” and the PD-90 the “ADB PD-80”. We'll fix it once it's confirmed.",
           "fuente": "rumor"
         }
       ]
@@ -881,7 +881,7 @@
         {
           "id": "robo-autos",
           "titulo": "How cars are stolen",
-          "texto": "There is a minigame with a «slim jim» bar and another with a key cloner for modern cars. Some have GPS.",
+          "texto": "There is a minigame with a “slim jim” bar and another with a key cloner for modern cars. Some have GPS.",
           "fuente": "medios"
         }
       ]
@@ -903,8 +903,8 @@
         },
         {
           "id": "negocio",
-          "titulo": "Their «business»",
-          "texto": "In the «An Extended Look» video, the couple takes jobs from different clients: robberies, escorts and deliveries.",
+          "titulo": "Their “business”",
+          "texto": "In the “An Extended Look” video, the couple takes jobs from different clients: robberies, escorts and deliveries.",
           "fuente": "medios"
         },
         {
@@ -977,7 +977,7 @@
       "subtitulo": "96 missions · 5 chapters",
       "icono": "misiones",
       "tipo": "checklist",
-      "intro": "Check off the ones you've finished: your progress is saved on your phone. The names are the official English ones, and the list follows Eurogamer; other outlets count 91 because they merge some steps. Heads up: the names give away part of the story. The «Strangers and Freaks» side missions are at the end.",
+      "intro": "Check off the ones you've finished: your progress is saved on your phone. The names are the official English ones, and the list follows Eurogamer; other outlets count 91 because they merge some steps. Heads up: the names give away part of the story. The “Strangers and Freaks” side missions are at the end.",
       "pronto": false,
       "items": [
         {
@@ -1677,7 +1677,7 @@
       "subtitulo": "61 cheats · 16 confirmed",
       "icono": "trucos",
       "tipo": "trucos",
-      "intro": "Cheat names as most guides list them in English. «Confirmed»: at least two outlets give the same code. We'll keep adding the missing ones.",
+      "intro": "Cheat names as most guides list them in English. “Confirmed”: at least two outlets give the same code. We'll keep adding the missing ones.",
       "pronto": false,
       "items": [
         {
@@ -2189,7 +2189,7 @@
           "titulo": "Inflatable Flamingo",
           "texto": "This vehicle spawns.",
           "fuente": "medios",
-          "reto": "Destroy 50 «cocaine flamingos».",
+          "reto": "Destroy 50 “cocaine flamingos”.",
           "estado": "sin-codigo"
         },
         {
@@ -2516,7 +2516,7 @@
         {
           "id": "paul-walker",
           "grupo": "Secrets",
-          "titulo": "Paul Walker's car from «The Fast and the Furious»",
+          "titulo": "Paul Walker's car from “The Fast and the Furious”",
           "texto": "From the start of the game you can grab a replica of the 1995 sports car Paul Walker drove, with its color and decals. According to Vandal, it's in a garage east of the Isla Catalana area: force the door, take it and register it at a Pay 'n' Spray for $6,750 (you must have unlocked vehicle registration first).",
           "fuente": "medios"
         }
@@ -2570,7 +2570,7 @@
         {
           "id": "extended",
           "titulo": "August 27, 2026",
-          "texto": "Premiere of «An Extended Look», about 27 minutes of real gameplay on PS5.",
+          "texto": "Premiere of “An Extended Look”, about 27 minutes of real gameplay on PS5.",
           "fuente": "oficial"
         },
         {
